@@ -6,7 +6,7 @@
 
 This is a personal repository for homework.
 
-## Algorithm2018Fall
+## Algorithm 2018Fall
 
 * [D-aryHeapTest.c]( https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/D-aryHeapTest.c )
 
