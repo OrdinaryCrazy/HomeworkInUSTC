@@ -6,12 +6,13 @@
 
 This is a personal repository for homework.
 
-## Algorithm2018Fall
+## Algorithm 2018Fall
 
-* ! [D-aryHeapTest.c]( https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/D-aryHeapTest.c )
+* [D-aryHeapTest.c]( https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/D-aryHeapTest.c )
+* [MaxSubarray.c]( https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/MaxSubarray.c )
 
 ## Web Information 2018Fall
 
-* ![InvertedIndex.cpp](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/InvertedIndex.cpp)
-* ![InvertedIndexOuter.cpp](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/InvertedIndexOuter.cpp)
+* [InvertedIndex.cpp](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/InvertedIndex.cpp)
+* [InvertedIndexOuter.cpp](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/InvertedIndexOuter.cpp)
 
