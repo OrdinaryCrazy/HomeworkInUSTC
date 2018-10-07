@@ -21,3 +21,6 @@ This is a personal repository for homework.
 ### KnowledgeGraph
 
 * [KGDevReport2018](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/PaperLab/KnowledgeGraph/KGDevReport2018.pdf)
+* [概念以及构建技术](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/PaperLab/KnowledgeGraph/%E6%A6%82%E5%BF%B5%E4%BB%A5%E5%8F%8A%E6%9E%84%E5%BB%BA%E6%8A%80%E6%9C%AF.pdf)
+* [构建技术与典型应用](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/PaperLab/KnowledgeGraph/%E6%9E%84%E5%BB%BA%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%85%B8%E5%9E%8B%E5%BA%94%E7%94%A8.pdf)
+
