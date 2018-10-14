@@ -28,3 +28,7 @@ This is a personal repository for homework.
 
 * [The Definitive ANTLR 4 Reference](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/PaperLab/Compiler/The%20Definitive%20ANTLR%204%20Reference.pdf)
 
+### NaturalLanguageProcessing
+
+* [LDA](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/PaperLab/NaturalLanguageProcessing/2070-latent-dirichlet-allocation.pdf)
+
