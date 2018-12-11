@@ -6,6 +6,10 @@
 
 This is a personal repository for homework.
 
+## Basical JAVA Programming 2018Fall
+
+* [Huffman.java](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/Huffman.java)
+
 ## Algorithm 2018Fall
 
 * [D-aryHeapTest.c]( https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/D-aryHeapTest.c )
