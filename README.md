@@ -37,3 +37,6 @@ This is a personal repository for homework.
 * [LDA](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/PaperLab/NaturalLanguageProcessing/2070-latent-dirichlet-allocation.pdf)
 
 * [HDP](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/PaperLab/NaturalLanguageProcessing/2698-sharing-clusters-among-related-groups-hierarchical-dirichlet-processes.pdf)
+
+* [中国人工智能学会-学会通讯-2017年第4期 ](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/PaperLab/NaturalLanguageProcessing/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E4%BC%9A-%E5%AD%A6%E4%BC%9A%E9%80%9A%E8%AE%AF-2017%E5%B9%B4%E7%AC%AC4%E6%9C%9F%20.pdf)
+
