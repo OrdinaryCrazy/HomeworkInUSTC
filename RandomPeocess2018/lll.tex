@@ -1,0 +1,59 @@
+\documentclass{article}
+\usepackage{xeCJK}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{indentfirst} 
+\geometry{left=2.5cm,right=2.5cm}
+\begin{document}
+\noindent
+设 $\{X(t)\rbrace$ 为Gauss平稳过程，均值为0，$R_{X}(\tau) = Ae^{-a|\tau|}cos\beta\tau$ ，令 $Y(t) = X^{2}(t)$，\\
+验证$R_{Y}(\tau) = A^{2}e^{-2a|\tau|}(1 + cos2\beta\tau)$，并求出$S_{Y}(\omega)$。\\
+解：\\
+\begin{center}$EY(t) = EX^{2}(t) = R_{X}(0) + [EX(t)]^{2} = A$\end{center}
+因为，若$(X_1,X_2,X_3,X_4)$是均值为0的联合正态随机变量，则：
+\begin{center}$EX_1X_2X_3X_4 = Cov(X_1,X_2)Cov(X_3,X_4)
+                             + Cov(X_1,X_3)Cov(X_2,X_4)
+                             + Cov(X_1,X_4)Cov(X_2,X_3)$\end{center}
+设$ Z(t) = X(t)X(t + \tau)$
+\begin{align}\begin{split}
+R_{Z}(\tau_1) &= EZ(t + \tau_1)Z(t) - EZ(t + \tau_1)EZ(t)\\
+		   &= EX(t + \tau_1)X(t + \tau + \tau_1)X(t)X(t + \tau) - R^{2}_{X}(\tau)\\
+		   &= Cov(X(t + \tau_1),X(t + \tau + \tau_1))Cov(X(t),X(t + \tau)) \\
+		   &+ Cov(X(t + \tau_1),X(t))Cov(X(t + \tau + \tau_1),X(t + \tau)) \\
+		   &+ Cov(X(t + \tau_1),X(t + \tau))Cov(X(t + \tau + \tau_1),X(t)) - R^{2}_{X}(\tau)\\
+		   &= R_{X}^{2}(\tau) 
+		    + R_{X}^{2}(\tau_1) 
+		    + R_{X}(\tau_1-\tau) R_{X}(\tau_1+\tau) 
+		    - R^{2}_{X}(\tau)\\
+		   &= R_{X}^{2}(\tau_1) 
+		    + R_{X}(\tau_1-\tau) R_{X}(\tau_1+\tau) 
+\end{split}\end{align}
+\begin{align}\begin{split}
+R_{Y}(\tau) &= E(Y(t) - A)(Y(t + \tau) - A) \\
+		    &= E(Y(t)Y(t+\tau)) - AE(Y(t)) - AE(Y(t+\tau)) + A^{2}\\
+		    &= E(Y(t)Y(t+\tau)) - A^{2}\\
+		    &= E(X^{2}(t)X^{2}(t+\tau)) - A^{2}\\
+		    &= Var(Z(t)) + [E(X(t)X(t+\tau))]^{2} - A^{2} \\
+		    &= A^{2} + R^{2}_{X}(\tau) + R^{2}_{X}(\tau) - A^{2} \\
+		    &= 2R^{2}_{X}(\tau) \\
+		    &= A^{2}e^{-2a|\tau|}(1 + cos2\beta\tau)
+\end{split}\end{align}
+\begin{align}\begin{split}
+S_{Y}(\omega)&= \int^{+\infty}_{-\infty} R(\tau)e^{-i\omega\tau}d\tau \\
+		     &= \int^{+\infty}_{0} A^{2}e^{-(2a+i\omega)\tau}(1 + 2cos2\beta\tau)d\tau
+		     + \int^{0}_{-\infty} A^{2}e^{(2a-i\omega)\tau}(1 + 2cos2\beta\tau)d\tau\\
+		     &= \int^{+\infty}_{0} A^{2}e^{-(2a+i\omega)\tau} \\
+&+ \int^{+\infty}_{0}\frac{A^{2}}{2}e^{-(2a+i\omega)\tau}(e^{-2i\beta\tau} + e^{2i\beta\tau})d\tau\\
+&- \int^{0}_{-\infty} A^{2}e^{-(2a-i\omega)\tau} \\
+&- \int^{0}_{-\infty}\frac{A^{2}}{2} e^{-(2a-i\omega)\tau}(e^{-2i\beta\tau}+e^{2i\beta\tau})d\tau\\
+		     &= A^{2}\frac{1}{2a+i\omega} 
+		     + \frac{A^{2}}{2}(\frac{1}{2a+2\beta+i\omega} + \frac{1}{2a-2\beta+i\omega})\\
+		     &- A^{2}\frac{1}{2a-i\omega} 
+		     - \frac{A^{2}}{2}(\frac{1}{2a+2\beta-i\omega} + \frac{1}{2a-2\beta-i\omega})\\
+		     &= A^{2}\frac{-2i\omega}{4a^{2}+\omega^{2}}
+		     + \frac{A^{2}}{2}
+		     (\frac{-2i\omega}{(2a + 2\beta)^{2}+\omega^{2}} + \frac{-2i\omega}{(2a - 2\beta)^{2}+\omega^{2}})
+\end{split}\end{align}
+\end{document}
