@@ -1,0 +1,8 @@
+delete cost = 1 us
+delete cost = 1 us
+delete cost = 0 us
+delete cost = 1 us
+delete cost = 0 us
+delete cost = 1 us
+delete cost = 0 us
+delete cost = 0 us

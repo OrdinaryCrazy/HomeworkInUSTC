@@ -1,0 +1,7 @@
+1 ~ 10 time cost: 4 us
+11 ~ 20 time cost: 4 us
+21 ~ 30 time cost: 9 us
+31 ~ 40 time cost: 8 us
+41 ~ 50 time cost: 6 us
+51 ~ 60 time cost: 5 us
+size = 60, sumtime cost: 36 us

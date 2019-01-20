@@ -1,0 +1,12 @@
+size = (15,10),time cost is 19 	us.
+size = (15,20),time cost is 24 	us.
+size = (15,30),time cost is 29 	us.
+size = (15,40),time cost is 36 	us.
+size = (15,50),time cost is 46 	us.
+size = (15,60),time cost is 53 	us.
+size = (15,25),time cost is 26 	us.
+size = (30,25),time cost is 52 	us.
+size = (45,25),time cost is 74 	us.
+size = (60,25),time cost is 99 	us.
+size = (75,25),time cost is 119 	us.
+size = (90,25),time cost is 149 	us.

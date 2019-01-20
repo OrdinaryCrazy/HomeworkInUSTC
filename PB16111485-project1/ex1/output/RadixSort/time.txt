@@ -1,0 +1,6 @@
+n = 2,	time = 12 ms
+n = 5,	time = 19 ms
+n = 8,	time = 141 ms
+n = 11,	time = 1110 ms
+n = 14,	time = 9095 ms
+n = 17,	time = 71531 ms

@@ -1,0 +1,3 @@
+Search: [11, 18], Result: [9, 11]
+Search: [26, 28], Result: NULL
+Search: [35, 36], Result: [30, 36]

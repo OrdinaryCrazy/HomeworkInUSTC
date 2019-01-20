@@ -1,0 +1,4 @@
+n = 5	,time cost is 5 	us.
+n = 10	,time cost is 16 	us.
+n = 20	,time cost is 63 	us.
+n = 30	,time cost is 168 	us.
