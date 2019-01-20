@@ -21,6 +21,10 @@ This is a personal repository for homework.
 
 * [D-aryHeapTest.c]( https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/D-aryHeapTest.c )
 * [MaxSubarray.c]( https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/MaxSubarray.c )
+* [Sorting](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/PB16111485-project1/ex1/source/sorting.c)
+* [Dynamic Programming](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/PB16111485-project2)
+* [Red-Black Tree](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/PB16111485-project3/source)
+* [String Matching](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/PB16111485-project4/ex/source)
 
 ## Web Information 2018Fall
 
