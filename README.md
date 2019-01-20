@@ -9,7 +9,7 @@ This is a personal repository for homework.
 ## Basical JAVA Programming 2018Fall
 
 * [Huffman.java](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/Huffman.java)
-* [WordPuzzle.java]()
+* [WordPuzzle.java](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/JavaLab1-PB16111485-%E5%BC%A0%E5%8A%B2%E6%9A%BE/WordPuzzle.java)
 
 ## NumericalAnalyse 2018Fall
 
