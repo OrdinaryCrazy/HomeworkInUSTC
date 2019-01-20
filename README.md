@@ -10,6 +10,8 @@ This is a personal repository for homework.
 
 * [Huffman.java](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/Huffman.java)
 
+## Random Process 2018Fall
+* [T23](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/RandomProcess2018/t23.pdf)
 ## Algorithm 2018Fall
 
 * [D-aryHeapTest.c]( https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/D-aryHeapTest.c )

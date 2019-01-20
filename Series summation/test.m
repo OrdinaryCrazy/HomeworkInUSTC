@@ -1,0 +1,7 @@
+fprintf("x = 0.0,y = %.15f\n", series_count(0))
+fprintf("x = 0.5,y = %.15f\n", series_count(0.5))
+fprintf("x = 1.0,y = %.15f\n", series_count(1))
+fprintf("x = 2^0.5,y = %.15f\n", series_count(2^0.5))
+fprintf("x = 10.0,y = %.15f\n", series_count(10))
+fprintf("x = 100.0,y = %.15f\n", series_count(100))
+fprintf("x = 300.0,y = %.15f\n", series_count(300))
