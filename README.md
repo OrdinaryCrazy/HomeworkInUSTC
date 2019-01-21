@@ -14,6 +14,7 @@ This is a personal repository for homework.
 ## NumericalAnalyse 2018Fall
 
 * [Series summation](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/Series%20summation)
+* [Lagrangian interpolation](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/Lagrangian%20interpolation)
 
 ## Random Process 2018Fall
 * [T23](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/RandomProcess2018/t23.pdf)
