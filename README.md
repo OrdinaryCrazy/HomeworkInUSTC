@@ -17,6 +17,11 @@ This is a personal repository for homework.
 * [Lagrangian interpolation](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/Lagrangian%20interpolation)
 * [Guass_Seidel & SOR](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/Guass_Seidel%20%26%20SOR)
 * [LeastSquare](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/LeastSquare)
+* [jacobi](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/jacobi)
+* [row_pivoting_gaussian_elimination](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/row_pivoting_gaussian_elimination)
+* [Runge_Kutta & Adams](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/Runge_Kutta%20%26%20Adams)
+* [Simpson](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/Simpson)
+* [NewtonIter](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/NewtonIter)
 
 ## Random Process 2018Fall
 * [T23](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/RandomProcess2018/t23.pdf)
