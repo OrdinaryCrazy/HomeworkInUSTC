@@ -15,6 +15,8 @@ This is a personal repository for homework.
 
 * [Series summation](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/Series%20summation)
 * [Lagrangian interpolation](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/Lagrangian%20interpolation)
+* [Guass_Seidel & SOR](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/Guass_Seidel%20%26%20SOR)
+* [LeastSquare](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/LeastSquare)
 
 ## Random Process 2018Fall
 * [T23](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/RandomProcess2018/t23.pdf)
