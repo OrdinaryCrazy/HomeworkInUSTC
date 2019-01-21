@@ -1,0 +1,665 @@
+a 1 2 3 4 
+abandoned 3 
+access 3 
+accompanied 2 
+according 2 
+accuracy 2 
+actions 2 
+additional 3 
+adept 2 
+adjacent 4 
+admiral 2 
+advances 2 
+after 3 
+against 2 3 
+aggression 3 
+agreed 3 
+agreements 4 
+ahead 2 
+aircraft 2 
+all 2 4 
+allies 3 
+allowed 4 
+allowing 4 
+alone 2 
+along 2 
+also 1 2 4 
+altered 3 
+american 2 
+ammunition 1 
+an 2 3 4 
+and 1 2 3 4 
+anguilla 4 
+another 2 4 
+anti 2 
+any 4 
+appealed 3 
+archipelagic 4 
+are 1 2 4 
+area 4 
+areas 4 
+arm 1 
+armed 1 
+artillery 2 
+as 1 2 3 4 
+asia 3 
+assault 2 
+assets 3 
+assumes 4 
+at 2 3 4 
+attack 2 
+attacks 2 
+australian 4 
+austria 3 
+auxiliary 1 
+baseline 4 
+battle 2 
+battlegroup 2 
+battles 2 3 
+be 1 2 4 
+became 2 
+been 1 
+before 2 
+began 2 
+beginning 2 
+being 1 3 4 
+belgium 3 
+belize 4 
+belong 1 
+between 1 4 
+blurred 1 
+bolshevik 3 
+borders 4 
+bow 2 
+bring 2 
+british 2 3 4 
+broadside 2 
+built 1 2 
+bulgaria 3 
+but 3 4 
+by 1 2 4 
+called 4 
+campaign 3 
+can 4 
+capitalise 3 
+cargo 1 
+carriers 1 2 
+carries 1 
+casualties 2 
+ceasefire 3 
+central 3 
+centre 2 
+century 1 2 4 
+certain 4 
+chahar 3 
+chain 2 
+chaotic 2 
+chile 4 
+china 3 
+chinese 3 
+citation 4 
+civil 2 3 
+claims: 4 
+close 2 4 
+closely 2 
+clubs 2 
+coastal 4 
+collapse 3 
+common 1 
+communist 3 
+comparable 2 
+compensated 2 
+composed 1 
+condemned 3 
+conference 4 
+contiguous 4 
+continental 4 
+continued 3 
+continuing 2 
+continuous 4 
+control 4 
+controls 4 
+convention 4 
+cooperatives 1 
+corporations 1 
+could 2 
+countered 2 
+countries 4 
+country 3 
+cover 4 
+covers 4 
+craft 4 
+created 3 
+crew 1 
+crimean 2 
+crucial 2 
+cruisers 1 
+current 4 
+customary 4 
+damage 1 2 
+damaged 2 
+decided 2 
+decisive 2 
+decisively 2 
+defeat 3 
+defensive 2 
+defined 4 
+defines 4 
+definition 4 
+deliver 2 
+delivered 2 
+deploys 2 
+designated 4 
+designed 1 
+desire 4 
+developed 2 
+development 2 
+difficult 2 
+disciplined 2 
+disobeyed 2 
+distance 2 4 
+distinction 1 
+doctrine 2 
+doctrines 2 
+doing 4 
+down 2 
+downwind 2 
+draw 4 
+drawn 4 
+during 1 2 
+dutch 3 
+early 2 4 
+easily 2 
+east 3 
+ecuador 4 
+effectively 2 
+effects 2 
+eight 4 
+embargo 3 
+embroiled 3 
+emphasis 2 
+empire 3 
+empires 3 
+enable 2 
+encouraged 3 
+end 4 
+ended 3 
+enemy 2 
+enforce 4 
+engagements 2 
+escorts 2 
+essential 4 
+establish 3 
+europe 3 
+european 3 
+eventually 2 3 
+existing 4 
+expeditious 4 
+expressed 4 
+extend 4 
+extended 4 
+failure 3 
+far 3 
+fashion 2 
+faster 1 
+fell 2 
+few 2 4 
+fighting 2 
+finally 2 
+fire 2 
+firepower 2 
+first 1 3 
+fish 4 
+fishing 4 
+fixing 2 
+flag 4 
+flatter 2 
+fleet 1 2 
+fleets 2 
+follow 4 
+for 1 2 3 4 
+forced 2 
+forces 1 3 
+foreign 4 
+formation 2 
+former 3 
+fought 3 
+founding 3 
+france 3 
+free 4 
+freeze 3 
+french 1 2 
+from 2 3 4 
+front 3 
+function 2 
+gained 3 
+galleons 1 
+generally 2 
+george 2 
+german 3 
+germany 3 
+given 2 4 
+goal 2 
+good 4 
+government 3 
+governments 3 
+greater 2 
+greece 3 
+grounds 4 
+guinea 4 
+gun 2 
+gunfire 2 
+gunnery 2 
+guns 2 
+had 2 3 4 
+hague 4 
+half 1 
+handful 2 
+harry 4 
+has 2 4 
+have 1 4 
+hebei 3 
+held 2 
+help 3 
+high 2 4 
+higher 2 
+highest 2 
+hitting 2 
+how 4 
+however 2 
+humboldt 4 
+hungary 3 
+i 3 
+if 4 
+ii 2 
+illegal 4 
+immediately 4 
+improve 2 
+improved 2 
+in 1 2 3 4 
+incident 3 
+include 4 
+including 3 4 
+increase 2 3 
+increasingly 2 3 
+incursion 3 
+indecisive 2 
+indies 3 
+individuals 1 
+indochina 3 
+infantry 2 
+inflexible 2 
+influence 3 
+innocent 4 
+inside 4 
+instructions 2 
+intended 1 
+intending 3 
+internal 4 
+international 4 
+into 1 3 
+introduced 2 
+introduction 2 
+invasion 3 
+invulnerable 2 
+ironclad 2 
+ironclads 2 
+is 1 2 4 
+islands 4 
+it 1 2 
+italy 3 
+its 1 3 4 
+iv 4 
+japan 3 
+japanese 1 3 4 
+javelin 2 
+jordan 4 
+july 3 
+june 3 
+jurisdiction 4 
+jutland 2 
+kilometres 4 
+kinetic 2 
+kingdom 3 
+km 4 
+kmt 3 
+kuomintang 3 
+landward 4 
+larger 1 
+late 2 
+launch 3 
+launched 3 
+law 4 
+laws 4 
+league 3 4 
+led 3 
+leeward 2 
+less 2 
+like 4 
+limit 4 
+limit: 4 
+limited 2 
+line 2 
+lissa 2 
+little 2 
+logic 2 
+long 2 3 
+longer 2 
+low 2 
+main 2 
+maintain 4 
+manchukuo 3 
+manchuria 3 
+maneuverable 1 
+manner 4 
+many 2 
+map 3 
+masts 2 
+material 2 
+may 4 
+meaning 2 
+means 4 
+meant 2 
+meanwhile 3 
+melee 2 
+merchant 1 
+method 2 
+mid 2 3 
+mile 4 
+miles 2 4 
+militaristic 3 
+military 4 
+mineral 4 
+missile 2 
+modern 2 
+more 1 
+mount 2 
+move 3 
+mukden 3 
+musket 2 
+muskets 2 
+nation 3 4 
+national 4 
+nations 3 4 
+natural 4 
+nautical 4 
+naval 1 2 4 
+navigate 4 
+navy 1 
+needed 4 
+negotiations 3 
+never 2 
+new 3 4 
+no 2 4 
+nominally 3 
+normal 1 
+not 1 2 4 
+number 2 
+of 1 2 3 4 
+off 3 
+often 1 2 
+oil 3 
+old 4 
+on 2 3 4 
+one 2 4 
+only 1 2 4 
+operated 1 
+operation 3 
+oppose 3 
+or 1 2 4 
+order 4 
+other 3 4 
+ottoman 3 
+out 2 3 4 
+outermost 4 
+over 2 4 
+overseas 4 
+palau 4 
+papua 4 
+part 2 4 
+particular 2 
+particularly 2 
+party 3 
+passage 4 
+passing 4 
+peace 4 
+period 2 
+periods 2 
+permanent 2 
+peru 4 
+piracy 1 
+place 2 4 
+planning 3 
+points 4 
+political 3 
+polluting 4 
+pollution 4 
+poor 2 
+popular 2 
+port 2 
+position 2 
+possessions 3 
+postures 4 
+power 2 3 
+powers 3 
+practice 1 4 
+prejudicial 4 
+present 3 
+president 4 
+pressed 1 
+pressure 3 
+pretext 3 
+primarily 1 
+principle 4 
+problem 2 
+projectile 2 
+protect 4 
+protection 4 
+provide 3 4 
+puppet 3 
+pursuit 4 
+q 1 
+quick 4 
+radically 3 
+ramming 2 
+range 2 
+ranges 2 
+rarely 2 
+rate 2 
+rather 2 
+rationale 2 
+reaching 4 
+reacted 3 
+regards 2 
+regional 3 
+regulate 4 
+rehe 3 
+relying 2 
+repairs 2 
+required 4 
+resist 3 
+resistance 3 
+resource 4 
+resources 3 4 
+result 2 
+resulted 4 
+resulting 2 
+retire 2 
+returned 2 
+rifled 2 
+right 3 4 
+rights 4 
+river 2 
+rodney 2 
+romania 3 
+romans 2 
+round 2 
+rule 3 
+russia 3 
+russian 3 
+s 3 4 
+saintes 2 
+same 3 
+sanctions 3 
+saw 3 
+school 2 
+seas 4 
+second 1 
+security 4 
+seizure 3 
+sent 3 
+service 1 
+set 4 
+several 3 
+shanghai 3 
+shelf 4 
+shifted 2 
+ship 1 4 
+ships 1 2 
+shot 2 
+show 4 
+side 4 
+signed 3 
+significant 2 
+similar 2 
+single 2 
+size 2 
+so 2 4 
+some 3 4 
+soon 3 
+sought 3 
+southeast 3 
+southern 3 
+sovereignty 4 
+soviet 3 
+spear 2 
+spears 2 
+specific 4 
+spying 4 
+state 1 3 4 
+states 3 4 
+step 3 
+still 4 
+stocks 4 
+strait 2 
+straits 4 
+strategic 4 
+strength 2 
+subject 4 
+submarine 2 
+submarines 4 
+subsided 1 
+successes 3 
+such 1 2 3 4 
+sufficiently 4 
+suit 4 
+suiyuan 3 
+supplies 1 3 
+supply 1 
+support 2 
+surface 4 
+surigao 2 
+surrounding 2 
+suspend 4 
+sword 2 
+tactical 2 
+tactics 2 
+take 2 4 
+tanggu 3 
+technological 2 
+technology 2 
+temporarily 4 
+tended 2 
+tens 2 
+territorial 4 
+territories 4 
+territory 3 
+th 1 2 4 
+than 1 2 
+that 1 2 4 
+the 1 2 3 4 
+their 2 3 4 
+themselves 2 
+then 3 
+there 2 
+thereafter 3 
+these 2 4 
+they 1 2 
+this 2 3 4 
+though 1 
+thought 2 
+threat 1 
+threatening 3 
+through 4 
+thus 3 
+time 2 3 
+to 1 2 3 4 
+too 3 
+took 2 
+total 3 
+traditional 4 
+trajectories 2 
+transit 4 
+troop 1 
+troops 3 
+truce 3 
+truman 4 
+tsushima 2 
+two 3 4 
+typically 1 
+under 4 
+underwater 4 
+unification 3 
+unified 3 
+union 3 
+united 3 4 
+units 2 
+unlike 1 
+until 1 2 3 
+unusual 1 
+use 2 4 
+used 1 2 3 4 
+using 2 4 
+usually 1 
+value 2 
+vehicles 4 
+very 2 
+vessel 4 
+vessels 2 4 
+victorious 3 
+victory 2 
+volley 2 
+volunteer 3 
+war 1 2 3 
+warfare 1 2 
+warlords 3 
+warship 1 
+warships 1 2 
+wartime 1 
+was 1 2 3 
+water 4 
+waters 4 
+waterways 4 
+weak 3 
+weapons 1 2 4 
+well 1 
+were 2 3 4 
+west 3 
+western 3 
+what 3 
+when 2 4 
+where 2 
+which 1 2 3 4 
+while 2 4 
+win 2 
+with 2 3 4 
+withdrew 3 
+within 4 
+without 2 
+withstand 1 
+won 2 
+world 1 2 3 
+would 2 4 
+xi 3 
+yalu 2 
+zone 4 
