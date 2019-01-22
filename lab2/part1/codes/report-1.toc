@@ -1,0 +1,57 @@
+\contentsline {section}{\numberline {1}数据集描述}{3}{section.1}
+\contentsline {paragraph}{ UCI数据集：\href {https://archive.ics.uci.edu/ml/datasets/Bank+Marketing}{Bank Marketing Data Set }\\ 数据集一共41188条银行向用户推荐定期存款的记录，每条记录包括如下属性，其中y属性的含义是用户最终是否订购了定期存款，是需要预测的标签： }{3}{paragraph*.2}
+\contentsline {section}{\numberline {2}数据预处理}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}age:用户年龄}{3}{subsection.2.1}
+\contentsline {paragraph}{ 用户的年龄分布如图所示： }{3}{paragraph*.3}
+\contentsline {paragraph}{ 考虑到不同年龄段的用户需求以及人数的分布，我将年龄划分为5个区间并进行独热码编码，如表格所示： }{4}{paragraph*.4}
+\contentsline {subsection}{\numberline {2.2}job:职业}{4}{subsection.2.2}
+\contentsline {paragraph}{ 用户的职业分布如图所示： }{4}{paragraph*.5}
+\contentsline {paragraph}{ 对职业进行独热码编码如表，将未知数据填充为众数： }{5}{paragraph*.6}
+\contentsline {subsection}{\numberline {2.3}marital:婚姻状况}{6}{subsection.2.3}
+\contentsline {paragraph}{ 对用户的婚姻状况进行独热码编码如表，将未知数据填充为众数： }{6}{paragraph*.7}
+\contentsline {subsection}{\numberline {2.4}education:受教育程度}{6}{subsection.2.4}
+\contentsline {paragraph}{ 对用户的受教育程度进行独热码编码如表，将未知数据填充为众数： }{6}{paragraph*.8}
+\contentsline {subsection}{\numberline {2.5}default:是否默认信用}{6}{subsection.2.5}
+\contentsline {paragraph}{ 这一项表示的是用户是否默认信用,绝大多数(41185条)都是没有或未知,直接放弃 }{6}{paragraph*.9}
+\contentsline {subsection}{\numberline {2.6}housing:是否有房贷}{6}{subsection.2.6}
+\contentsline {paragraph}{ 用 0 表示没有房贷， 1 表示有房贷， 缺失数据默认填充为 1。 }{6}{paragraph*.10}
+\contentsline {subsection}{\numberline {2.7}loan:是否有个人贷款}{6}{subsection.2.7}
+\contentsline {paragraph}{ 用 0 表示没有个人贷款， 1 表示有个人贷款， 缺失数据默认填充为 0。 }{6}{paragraph*.11}
+\contentsline {subsection}{\numberline {2.8}contact:联系方式类型}{6}{subsection.2.8}
+\contentsline {paragraph}{ 用 0 表示固定电话联系方式， 用 1 表示移动电话联系方式。 }{6}{paragraph*.12}
+\contentsline {subsection}{\numberline {2.9}month:本年度上一次联系的月份}{7}{subsection.2.9}
+\contentsline {paragraph}{ 这一项数据不便表示为”某种度量上的距离“，这对KNN算法和LogisticRegression算法是非常不友好的，所以我最终选择放弃这一项数据， 试验结果表明这是有助于预测结果的准确率提高的。 }{7}{paragraph*.13}
+\contentsline {subsection}{\numberline {2.10}day\_of\_week:本周上一次访问的天}{7}{subsection.2.10}
+\contentsline {paragraph}{ 这一项数据不便表示为”某种度量上的距离“，这对KNN算法和LogisticRegression算法是非常不友好的，所以我最终选择放弃这一项数据， 试验结果表明这是有助于预测结果的准确率提高的。 }{7}{paragraph*.14}
+\contentsline {subsection}{\numberline {2.11}duration:上次联系到目前的时间}{7}{subsection.2.11}
+\contentsline {paragraph}{ 这一项在数据集中说明有规则关系 duration = 0 ===> y = 'yes'， 所以是不能使用的项。 }{7}{paragraph*.15}
+\contentsline {subsection}{\numberline {2.12}campaign:这次商业活动中联系了多少次}{7}{subsection.2.12}
+\contentsline {paragraph}{ 这一项不做离散化处理,但观察到分布为长尾趋势,所以特征值取为log2(1 + n)。 }{7}{paragraph*.16}
+\contentsline {subsection}{\numberline {2.13}pdays:上次商务活动中最后一次联系到现在的天数}{7}{subsection.2.13}
+\contentsline {paragraph}{ 这一项绝大多数是无意义的999,直接放弃。 }{7}{paragraph*.17}
+\contentsline {subsection}{\numberline {2.14}previous:本次商业活动前与此用户联系的次数}{7}{subsection.2.14}
+\contentsline {paragraph}{ 这一项不做离散化处理,但观察到分布为长尾趋势,所以特征值取为log2(1 + n)。 }{7}{paragraph*.18}
+\contentsline {subsection}{\numberline {2.15}poutcome:上次商业活动结果}{7}{subsection.2.15}
+\contentsline {paragraph}{ 用 -1 表示 'failure'，用 0 表示 'nonexistent'，用 1 表示 'success'。 }{7}{paragraph*.19}
+\contentsline {subsection}{\numberline {2.16}emp.var.rate:就业率}{7}{subsection.2.16}
+\contentsline {paragraph}{ 实值直接作为特征值。 }{7}{paragraph*.20}
+\contentsline {subsection}{\numberline {2.17}cons.price.idx:消费者价格指数}{7}{subsection.2.17}
+\contentsline {paragraph}{ 实值正则化。 }{7}{paragraph*.21}
+\contentsline {subsection}{\numberline {2.18}cons.conf.idx:消费者信心指数}{8}{subsection.2.18}
+\contentsline {paragraph}{ 实值正则化。 }{8}{paragraph*.22}
+\contentsline {subsection}{\numberline {2.19}euribor3m:欧元区同业拆借利率}{8}{subsection.2.19}
+\contentsline {paragraph}{ 实值正则化。 }{8}{paragraph*.23}
+\contentsline {subsection}{\numberline {2.20}nr.employed:就业人数}{8}{subsection.2.20}
+\contentsline {paragraph}{ 实值正则化。 }{8}{paragraph*.24}
+\contentsline {subsection}{\numberline {2.21}y:用户是否定期存款}{8}{subsection.2.21}
+\contentsline {paragraph}{ 在LogisticRegression算法中，将 ‘yes’ 转换为1，‘no’ 状换为0，方便计算。 }{8}{paragraph*.25}
+\contentsline {section}{\numberline {3}KNN算法}{8}{section.3}
+\contentsline {paragraph}{ 有了预处理到得到的特征向量，在本数据集上运行KNN算法的基本步骤如下：\\[20pt] }{8}{lstlisting.-1}
+\contentsline {section}{\numberline {4}LogisticRegression算法}{9}{section.4}
+\contentsline {paragraph}{ 有了预处理到得到的特征向量，在本数据集上运行LogisticRegression算法的主要学习步骤如下： }{9}{lstlisting.-2}
+\contentsline {section}{\numberline {5}测试结果与分析}{10}{section.5}
+\contentsline {subsection}{\numberline {5.1}KNN算法运行结果与解读}{10}{subsection.5.1}
+\contentsline {paragraph}{ 对于不同的K值，运行结果如下： }{10}{paragraph*.28}
+\contentsline {paragraph}{ 可以看到在K大于10以后，基本上满足 Precision > 0.3, Recall > 0.5, F1-score值基本维持在0.4左右，Accuracy值基本维持在0.8以上， 而y的比例大概是7：1，也就是说，KNN分类的结果大概把选择的用户订购的概率提高了三倍，涵盖了一半以上潜在的会订购定期存款的用户，还是很有意义的。 }{10}{paragraph*.29}
+\contentsline {subsection}{\numberline {5.2}LogisticRegression算法运行结果与解读}{10}{subsection.5.2}
+\contentsline {paragraph}{ 经过大量调参之后，获得的最佳结果与相应的参数如下所示：\\ LogisticRegressionClassifier(LearningtRate=0.05,JudgeThreshold=0.25,MaxIterTimes=20000) \\ Precision = 0.46647230320699706, Recall = 0.4371584699453552, \\ F1-score = 0.45133991537376583, Accuracy = 0.8781328320802005\\ 可以看到对于用户订购意愿预测的准确性比KNN低，但召回率却比较低，与Random Result相比 大概把选择的用户订购的概率提高了四倍，涵盖了百分之四十以上潜在的会订购定期存款的用户，还是很有意义的。 }{10}{paragraph*.30}

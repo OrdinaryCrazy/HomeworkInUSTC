@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}数据集描述}{1}{section.1}
+\contentsline {paragraph}{ 文件Erdos.html给出了Paul Erdos的511名共同作者名单，与他们下面列出的共同作者一起。 给出了与鄂尔多斯的第一份联合文件的日期，其次是联合出版物的数量（如果它不止一个）。 名称后面有一个星号表明这个Erdos合作者是众所周知的死者。 }{1}{paragraph*.2}
+\contentsline {section}{\numberline {2}数据预处理与Erdös共同作者网络的建立}{2}{section.2}
+\contentsline {paragraph}{ 数据预处理策略：\\ 1. 由于这个图非常的大，所以可以忽略重名，死亡，合作数量等稀疏的信息以降低分析的复杂度。\\ 2. 利用networkx包建立网络结构。 \\ 3. 删除一些度数很少的节点降低分析时的干扰。\\ 4. 手动删除html标签和其他信息方便处理。\\ 共同作者网络初步建立如下图所示：（可以粗略地看到8个左右的社区） }{2}{paragraph*.3}
+\contentsline {section}{\numberline {3}影响力分析}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Degree Centrality}{3}{subsection.3.1}
+\contentsline {paragraph}{ Degree Centrality认为，度数越大的节点，越具有影响力，选取度数最大的50个节点，代码如下：\\ }{3}{lstlisting.-1}
+\contentsline {subsection}{\numberline {3.2}Closeness Centrality}{3}{subsection.3.2}
+\contentsline {paragraph}{ Closeness Centrality认为，到图上其他点平均距离越小的点，越具有影响力，选取到图上其他点平均距离最小的50个节点，代码如下：\\ }{3}{lstlisting.-2}
+\contentsline {subsection}{\numberline {3.3}两种方法的结果对比}{3}{subsection.3.3}
+\contentsline {paragraph}{ Closeness Centrality 和 Degree Centrality 的运行结果对比如下：仔细观察会发现左右两行有很多相同的名字，所以两种方法都有一定的效果但并不完全相同 }{3}{paragraph*.6}
+\contentsline {section}{\numberline {4}社区发现}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}GirvanNewman算法的步骤}{5}{subsection.4.1}
+\contentsline {paragraph}{GirvanNewman算法的基本思想：在模块性没有达到要求之前，不断切除边界数最大的边。\\}{5}{lstlisting.-3}
+\contentsline {paragraph}{GirvanNewman算法的运行结果，可以看到一共有12个明显的社区，其中8个已经被划分出来了，此时的模块性已经大于0.5}{6}{paragraph*.8}
+\contentsline {subsection}{\numberline {4.2}NormalizedCut谱聚类算法的步骤}{7}{subsection.4.2}
+\contentsline {paragraph}{NormalizedCut谱聚类算法的核心思想是通过在图的Laplacian矩阵的特征向量组成的点的特征向量上运行聚类算法发现社区，代码如下：\\[50pt]}{8}{lstlisting.-6}
+\contentsline {paragraph}{ NormalizedCut谱聚类算法的运行结果，这里在聚类时选择GirvanNewman算法的先验结果，即 聚为12个类，删除掉一些边缘节点之后，可以看到NormalizedCut谱聚类算法同样可以找到相似的12个 社区的核心结构，但是在一些边缘节点上划分错误较大，所以社区不是很”丰满“，在这一点上比GirvanNewman算法略差， 但在运行速度上快于GirvanNewman算法。 }{8}{paragraph*.10}

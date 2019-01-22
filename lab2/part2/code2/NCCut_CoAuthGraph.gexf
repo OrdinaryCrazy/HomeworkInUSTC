@@ -1,0 +1,1026 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>17/01/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="ABBOTT,HARVEYLESLIE" label="ABBOTT,HARVEYLESLIE" />
+      <node id="HANSON,DENIS" label="HANSON,DENIS" />
+      <node id="Hare,DonovanR." label="Hare,DonovanR." />
+      <node id="MEIR,AMRAM" label="MEIR,AMRAM" />
+      <node id="MOON,JOHNW." label="MOON,JOHNW." />
+      <node id="MOSER,LEO" label="MOSER,LEO" />
+      <node id="Pareek,ChandraMohan" label="Pareek,ChandraMohan" />
+      <node id="Riddell,James" label="Riddell,James" />
+      <node id="SAUER,NORBERTW." label="SAUER,NORBERTW." />
+      <node id="SIMMONS,GUSTAVUSJ." label="SIMMONS,GUSTAVUSJ." />
+      <node id="SUBBARAO,MATUKUMALLIVENKATA" label="SUBBARAO,MATUKUMALLIVENKATA" />
+      <node id="Suryanarayana,D." label="Suryanarayana,D." />
+      <node id="Toft,Bjarne" label="Toft,Bjarne" />
+      <node id="Kalmar,Laszlo" label="Kalmar,Laszlo" />
+      <node id="Rote,Gunter" label="Rote,Gunter" />
+      <node id="STRAUS,ERNSTGABOR" label="STRAUS,ERNSTGABOR" />
+      <node id="Dilcher,Karl" label="Dilcher,Karl" />
+      <node id="GRANVILLE,ANDREWJAMES" label="GRANVILLE,ANDREWJAMES" />
+      <node id="AHARONI,RON" label="AHARONI,RON" />
+      <node id="Berger,Eli" label="Berger,Eli" />
+      <node id="Chudnovsky,Maria" label="Chudnovsky,Maria" />
+      <node id="Diestel,Reinhard" label="Diestel,Reinhard" />
+      <node id="Duchet,Pierre" label="Duchet,Pierre" />
+      <node id="HAJNAL,ANDRAS" label="HAJNAL,ANDRAS" />
+      <node id="Hajnal,Peter" label="Hajnal,Peter" />
+      <node id="Hartman,IrithBen-Arroyo" label="Hartman,IrithBen-Arroyo" />
+      <node id="HOFFMAN,ALANJEROME" label="HOFFMAN,ALANJEROME" />
+      <node id="HOLZMAN,RON" label="HOLZMAN,RON" />
+      <node id="KOMJATH,PETER" label="KOMJATH,PETER" />
+      <node id="KRIVELEVICH,MICHAEL" label="KRIVELEVICH,MICHAEL" />
+      <node id="LINIAL,NATHAN" label="LINIAL,NATHAN" />
+      <node id="LOEBL,MARTIN" label="LOEBL,MARTIN" />
+      <node id="MAGIDOR,MENACHEM" label="MAGIDOR,MENACHEM" />
+      <node id="Meshulam,Roy" label="Meshulam,Roy" />
+      <node id="MILNER,ERICCHARLES" label="MILNER,ERICCHARLES" />
+      <node id="Nash-Williams,CrispinSt.JohnAlvah" label="Nash-Williams,CrispinSt.JohnAlvah" />
+      <node id="Pouzet,Maurice" label="Pouzet,Maurice" />
+      <node id="Prikry,Karel" label="Prikry,Karel" />
+      <node id="SHELAH,SAHARON" label="SHELAH,SAHARON" />
+      <node id="Szabo,Tibor" label="Szabo,Tibor" />
+      <node id="THOMASSEN,CARSTEN" label="THOMASSEN,CARSTEN" />
+      <node id="Wajnryb,Bronislaw" label="Wajnryb,Bronislaw" />
+      <node id="Brandt,Stephan" label="Brandt,Stephan" />
+      <node id="Duffus,DwightA." label="Duffus,DwightA." />
+      <node id="KLEITMAN,DANIELJ." label="KLEITMAN,DANIELJ." />
+      <node id="PRINS,GEERTCALEBERNST" label="PRINS,GEERTCALEBERNST" />
+      <node id="TUZA,ZSOLT" label="TUZA,ZSOLT" />
+      <node id="WEST,DOUGLASBRENT" label="WEST,DOUGLASBRENT" />
+      <node id="AJTAI,MIKLOS" label="AJTAI,MIKLOS" />
+      <node id="ALON,NOGAM." label="ALON,NOGAM." />
+      <node id="BABAI,LASZLO" label="BABAI,LASZLO" />
+      <node id="Bruck,Jehoshua" label="Bruck,Jehoshua" />
+      <node id="Gurevich,Yuri" label="Gurevich,Yuri" />
+      <node id="Karabeg,Dino" label="Karabeg,Dino" />
+      <node id="KOMLOS,JANOS" label="KOMLOS,JANOS" />
+      <node id="Pintz,Janos" label="Pintz,Janos" />
+      <node id="Pudlak,Pavel" label="Pudlak,Pavel" />
+      <node id="Rabani,Yuval" label="Rabani,Yuval" />
+      <node id="RODL,VOJTECH" label="RODL,VOJTECH" />
+      <node id="SPENCER,JOELHAROLD" label="SPENCER,JOELHAROLD" />
+      <node id="Steiger,WilliamL." label="Steiger,WilliamL." />
+      <node id="SZEMEREDI,ENDRE" label="SZEMEREDI,ENDRE" />
+      <node id="Wigderson,Avi" label="Wigderson,Avi" />
+      <node id="ALAVI,YOUSEF" label="ALAVI,YOUSEF" />
+      <node id="Anderson,SabraSullivan" label="Anderson,SabraSullivan" />
+      <node id="BOALS,ALFREDJOHN" label="BOALS,ALFREDJOHN" />
+      <node id="Buckley,Fred" label="Buckley,Fred" />
+      <node id="CHARTRAND,GARYTHEODORE" label="CHARTRAND,GARYTHEODORE" />
+      <node id="GRAHAM,RONALDLEWIS" label="GRAHAM,RONALDLEWIS" />
+      <node id="Kapoor,ShashichandF." label="Kapoor,ShashichandF." />
+      <node id="Lesniak,LindaM." label="Lesniak,LindaM." />
+      <node id="LICK,DONRAYMOND" label="LICK,DONRAYMOND" />
+      <node id="MCCANNA,JOSEPHE." label="MCCANNA,JOSEPHE." />
+      <node id="McKee,TerryA." label="McKee,TerryA." />
+      <node id="Mitchem,John" label="Mitchem,John" />
+      <node id="Nordhaus,EdwardAlfred" label="Nordhaus,EdwardAlfred" />
+      <node id="OELLERMANN,ORTRUDR." label="OELLERMANN,ORTRUDR." />
+      <node id="SWART,HENDRIKACORNELIASCOTT(HENDA)" label="SWART,HENDRIKACORNELIASCOTT(HENDA)" />
+      <node id="Tian,Songlin" label="Tian,Songlin" />
+      <node id="WANG,JIAN-FANG" label="WANG,JIAN-FANG" />
+      <node id="Zhu,BiWen" label="Zhu,BiWen" />
+      <node id="Andrews,GeorgeW.Eyre" label="Andrews,GeorgeW.Eyre" />
+      <node id="Ahlswede,RudolfF." label="Ahlswede,RudolfF." />
+      <node id="ARONOV,BORIS" label="ARONOV,BORIS" />
+      <node id="Attiya,Hagit(Chagit)" label="Attiya,Hagit(Chagit)" />
+      <node id="Benjamini,Itai" label="Benjamini,Itai" />
+      <node id="Bohman,TomA." label="Bohman,TomA." />
+      <node id="BOLLOBAS,BELA" label="BOLLOBAS,BELA" />
+      <node id="Brightwell,GrahamR." label="Brightwell,GrahamR." />
+      <node id="Brualdi,RichardA." label="Brualdi,RichardA." />
+      <node id="Capalbo,MichaelR." label="Capalbo,MichaelR." />
+      <node id="Caro,Yair" label="Caro,Yair" />
+      <node id="Chiniforooshan,Ehsan" label="Chiniforooshan,Ehsan" />
+      <node id="Coja-Oghlan,Amin" label="Coja-Oghlan,Amin" />
+      <node id="COLBOURN,CHARLESJOSEPH" label="COLBOURN,CHARLESJOSEPH" />
+      <node id="Coppersmith,Don" label="Coppersmith,Don" />
+      <node id="Demaine,ErikD." label="Demaine,ErikD." />
+      <node id="Dewdney,AlexanderKeewatin" label="Dewdney,AlexanderKeewatin" />
+      <node id="Doerr,Benjamin" label="Doerr,Benjamin" />
+      <node id="DUKE,RICHARDALTER" label="DUKE,RICHARDALTER" />
+      <node id="Edelman,PaulH." label="Edelman,PaulH." />
+      <node id="Egawa,Yoshimi" label="Egawa,Yoshimi" />
+      <node id="Erdos,PeterL." label="Erdos,PeterL." />
+      <node id="FAUDREE,RALPHJASPER,JR." label="FAUDREE,RALPHJASPER,JR." />
+      <node id="Feige,Uriel" label="Feige,Uriel" />
+      <node id="Fellows,MichaelRalph" label="Fellows,MichaelRalph" />
+      <node id="FRANKL,PETER" label="FRANKL,PETER" />
+      <node id="FREIMAN,GREGORYA." label="FREIMAN,GREGORYA." />
+      <node id="Friedgut,Ehud" label="Friedgut,Ehud" />
+      <node id="Frieze,AlanM." label="Frieze,AlanM." />
+      <node id="FUREDI,ZOLTAN" label="FUREDI,ZOLTAN" />
+      <node id="Galil,Zvi" label="Galil,Zvi" />
+      <node id="Goldreich,Oded" label="Goldreich,Oded" />
+      <node id="GUNDERSON,DAVIDSHANE" label="GUNDERSON,DAVIDSHANE" />
+      <node id="Gutin,GregoryM." label="Gutin,GregoryM." />
+      <node id="GYARFAS,ANDRAS" label="GYARFAS,ANDRAS" />
+      <node id="HAMBURGER,PETER" label="HAMBURGER,PETER" />
+      <node id="Kahn,JeffryNed" label="Kahn,JeffryNed" />
+      <node id="Karp,RichardM." label="Karp,RichardM." />
+      <node id="KIERSTEAD,HENRYA.^" label="KIERSTEAD,HENRYA.^" />
+      <node id="Kim,JeongHan" label="Kim,JeongHan" />
+      <node id="KOHAYAKAWA,YOSHIHARU" label="KOHAYAKAWA,YOSHIHARU" />
+      <node id="Korner,Janos" label="Korner,Janos" />
+      <node id="KOSTOCHKA,ALEXANDRV." label="KOSTOCHKA,ALEXANDRV." />
+      <node id="Koucky,Michal" label="Koucky,Michal" />
+      <node id="Kozma,Gady" label="Kozma,Gady" />
+      <node id="Krasikov,Ilia" label="Krasikov,Ilia" />
+      <node id="Kriz,Igor" label="Kriz,Igor" />
+      <node id="LEFMANN,HANNO" label="LEFMANN,HANNO" />
+      <node id="LEHEL,JENO" label="LEHEL,JENO" />
+      <node id="Leighton,FrankThomson(Tom)" label="Leighton,FrankThomson(Tom)" />
+      <node id="Litsyn,SimonN." label="Litsyn,SimonN." />
+      <node id="LOVASZ,LASZLO" label="LOVASZ,LASZLO" />
+      <node id="Lubotzky,Alexander" label="Lubotzky,Alexander" />
+      <node id="Luby,MichaelG." label="Luby,MichaelG." />
+      <node id="Mohar,Bojan" label="Mohar,Bojan" />
+      <node id="Mubayi,Dhruv" label="Mubayi,Dhruv" />
+      <node id="NATHANSON,MELVYNBERNARD" label="NATHANSON,MELVYNBERNARD" />
+      <node id="NESETRIL,JAROSLAV" label="NESETRIL,JAROSLAV" />
+      <node id="Parnas,Michal" label="Parnas,Michal" />
+      <node id="Peleg,David" label="Peleg,David" />
+      <node id="Peres,Yuval" label="Peres,Yuval" />
+      <node id="Pinchasi,Rom" label="Pinchasi,Rom" />
+      <node id="Pritikin,Dan" label="Pritikin,Dan" />
+      <node id="Pulleyblank,WilliamR." label="Pulleyblank,WilliamR." />
+      <node id="Rabin,MichaelO." label="Rabin,MichaelO." />
+      <node id="Reed,BruceA." label="Reed,BruceA." />
+      <node id="Rucinski,Andrzej" label="Rucinski,Andrzej" />
+      <node id="Rudich,Steven" label="Rudich,Steven" />
+      <node id="RUSZINKO,MIKLOS" label="RUSZINKO,MIKLOS" />
+      <node id="RUZSA,IMREZ." label="RUZSA,IMREZ." />
+      <node id="Safra,Shmuel" label="Safra,Shmuel" />
+      <node id="SAKS,MICHAELEZRA" label="SAKS,MICHAELEZRA" />
+      <node id="Samotij,Wojciech" label="Samotij,Wojciech" />
+      <node id="Seymour,PaulD." label="Seymour,PaulD." />
+      <node id="Shamir,Ron" label="Shamir,Ron" />
+      <node id="Smorodinsky,Shakhar" label="Smorodinsky,Shakhar" />
+      <node id="Solymosi,Jozsef" label="Solymosi,Jozsef" />
+      <node id="Stern,JulienP." label="Stern,JulienP." />
+      <node id="Sudakov,Benjamin" label="Sudakov,Benjamin" />
+      <node id="Szabo,Tamas" label="Szabo,Tamas" />
+      <node id="SZEGEDY,MARIO" label="SZEGEDY,MARIO" />
+      <node id="Tardos,Gabor" label="Tardos,Gabor" />
+      <node id="Tarsi,Michael" label="Tarsi,Michael" />
+      <node id="TETALI,PRASADVENKATASITARAMAVARA" label="TETALI,PRASADVENKATASITARAMAVARA" />
+      <node id="Thomas,Robin" label="Thomas,Robin" />
+      <node id="TROTTER,WILLIAMTHOMAS" label="TROTTER,WILLIAMTHOMAS" />
+      <node id="Vempala,SantoshS." label="Vempala,SantoshS." />
+      <node id="Verstraete,Jacques" label="Verstraete,Jacques" />
+      <node id="Vu,VanHa" label="Vu,VanHa" />
+      <node id="Welsh,DominicJ.A." label="Welsh,DominicJ.A." />
+      <node id="WINKLER,PETERMANN" label="WINKLER,PETERMANN" />
+      <node id="Beck,Jozsef" label="Beck,Jozsef" />
+      <node id="RUBEL,LEEALBERT" label="RUBEL,LEEALBERT" />
+      <node id="SOS,VERATURAN" label="SOS,VERATURAN" />
+      <node id="Artin,Emil" label="Artin,Emil" />
+      <node id="CHOWLA,SARVADAMAND.S." label="CHOWLA,SARVADAMAND.S." />
+      <node id="BURR,STEFANANDRUS" label="BURR,STEFANANDRUS" />
+      <node id="Aggarwal,Alok" label="Aggarwal,Alok" />
+      <node id="GODDARD,WAYNEDEAN" label="GODDARD,WAYNEDEAN" />
+      <node id="Hurtado,Ferran" label="Hurtado,Ferran" />
+      <node id="Golomb,SolomonW." label="Golomb,SolomonW." />
+      <node id="AVIS,DAVIDMICHAEL" label="AVIS,DAVIDMICHAEL" />
+      <node id="Deza,Antoine" label="Deza,Antoine" />
+      <node id="Finkelstein,LarryA." label="Finkelstein,LarryA." />
+      <node id="GODSIL,CHRISTOPHERDAVID" label="GODSIL,CHRISTOPHERDAVID" />
+      <node id="Imrich,Wilfried" label="Imrich,Wilfried" />
+      <node id="Kantor,WilliamM." label="Kantor,WilliamM." />
+      <node id="Kucera,Ludek" label="Kucera,Ludek" />
+      <node id="MATE,ATTILA" label="MATE,ATTILA" />
+      <node id="MORAN,SHLOMO" label="MORAN,SHLOMO" />
+      <node id="Pultr,Ales" label="Pultr,Ales" />
+      <node id="PYBER,LASZLO" label="PYBER,LASZLO" />
+      <node id="SERESS,AKOS" label="SERESS,AKOS" />
+      <node id="SIMONOVITS,MIKLOS" label="SIMONOVITS,MIKLOS" />
+      <node id="WILSON,RICHARDMICHAEL" label="WILSON,RICHARDMICHAEL" />
+      <node id="DESHOUILLERS,JEAN-MARC" label="DESHOUILLERS,JEAN-MARC" />
+      <node id="SARKOZY,ANDRAS" label="SARKOZY,ANDRAS" />
+      <node id="Wooley,TrevorD." label="Wooley,TrevorD." />
+      <node id="Shamir,Eliahu" label="Shamir,Eliahu" />
+      <node id="VAUGHAN,ROBERTCHARLES" label="VAUGHAN,ROBERTCHARLES" />
+      <node id="Foreman,MatthewD." label="Foreman,MatthewD." />
+      <node id="BRENNER,JOELLEE" label="BRENNER,JOELLEE" />
+      <node id="DECAEN,DOMINIQUE" label="DECAEN,DOMINIQUE" />
+      <node id="Kirkland,StephenJ." label="Kirkland,StephenJ." />
+      <node id="SZALAY,MIHALY" label="SZALAY,MIHALY" />
+      <node id="WILLIAMSON,ALANGLYNNE" label="WILLIAMSON,ALANGLYNNE" />
+      <node id="Cooper,JohnK.,Jr." label="Cooper,JohnK.,Jr." />
+      <node id="HARARY,FRANK" label="HARARY,FRANK" />
+      <node id="Mahmoodian,EbadollahS." label="Mahmoodian,EbadollahS." />
+      <node id="BERGELSON,VITALY" label="BERGELSON,VITALY" />
+      <node id="BLASS,ANDREASRAPHAEL" label="BLASS,ANDREASRAPHAEL" />
+      <node id="Boshernitzan,MichaelD." label="Boshernitzan,MichaelD." />
+      <node id="DEUBER,WALTERA." label="DEUBER,WALTERA." />
+      <node id="KOLESNIK,GRIGORIABRAMOVICH" label="KOLESNIK,GRIGORIABRAMOVICH" />
+      <node id="Weiss,Benjamin" label="Weiss,Benjamin" />
+      <node id="FRAENKEL,AVIEZRISIEGMUND" label="FRAENKEL,AVIEZRISIEGMUND" />
+      <node id="BERTRAM,EDWARDARTHUR" label="BERTRAM,EDWARDARTHUR" />
+      <node id="SIRAN,JOZEF" label="SIRAN,JOZEF" />
+      <node id="SCHONHEIM,JOCHANAN" label="SCHONHEIM,JOCHANAN" />
+      <node id="Filaseta,MichaelA." label="Filaseta,MichaelA." />
+      <node id="Hashmi,JahangirA." label="Hashmi,JahangirA." />
+      <node id="VanderJagt,DonaldW." label="VanderJagt,DonaldW." />
+      <node id="BOAS,RALPHPHILIP,JR." label="BOAS,RALPHPHILIP,JR." />
+      <node id="POLLARD,HARRYSTRANGE" label="POLLARD,HARRYSTRANGE" />
+      <node id="Polya,George" label="Polya,George" />
+      <node id="Borgs,Christian" label="Borgs,Christian" />
+      <node id="Chayes,JenniferTour" label="Chayes,JenniferTour" />
+      <node id="Grimmett,GeoffreyR." label="Grimmett,GeoffreyR." />
+      <node id="Haggkvist,Roland" label="Haggkvist,Roland" />
+      <node id="HELL,PAVOL" label="HELL,PAVOL" />
+      <node id="JIN,GUOPING" label="JIN,GUOPING" />
+      <node id="Klee,VictorL.,Jr." label="Klee,VictorL.,Jr." />
+      <node id="Manvel,Bennet" label="Manvel,Bennet" />
+      <node id="MCKAY,BRENDANDAMIEN" label="MCKAY,BRENDANDAMIEN" />
+      <node id="Muller,Tobias^" label="Muller,Tobias^" />
+      <node id="Nara,Chie" label="Nara,Chie" />
+      <node id="Pittel,BorisG." label="Pittel,BorisG." />
+      <node id="ROUSSEAU,CECILCLYDE" label="ROUSSEAU,CECILCLYDE" />
+      <node id="Saito,Akira" label="Saito,Akira" />
+      <node id="Sidorenko,AlexanderF." label="Sidorenko,AlexanderF." />
+      <node id="Thomason,AndrewGordon" label="Thomason,AndrewGordon" />
+      <node id="Woodall,DouglasR." label="Woodall,DouglasR." />
+      <node id="Broersma,HajoJ." label="Broersma,HajoJ." />
+      <node id="Veldman,HenkJan" label="Veldman,HenkJan" />
+      <node id="Vince,AndrewJ." label="Vince,AndrewJ." />
+      <node id="Kotzig,Anton" label="Kotzig,Anton" />
+      <node id="ROSA,ALEXANDER" label="ROSA,ALEXANDER" />
+      <node id="BROWN,WILLIAMG." label="BROWN,WILLIAMG." />
+      <node id="Guralnick,RobertM." label="Guralnick,RobertM." />
+      <node id="Bilu,YuriF.(Belotserkovskii)" label="Bilu,YuriF.(Belotserkovskii)" />
+      <node id="GYORY,KALMAN" label="GYORY,KALMAN" />
+      <node id="VanderPoorten,AlfredJacobus" label="VanderPoorten,AlfredJacobus" />
+      <node id="Buhler,JoeP." label="Buhler,JoeP." />
+      <node id="Chou,Wun-Seng" label="Chou,Wun-Seng" />
+      <node id="LI,WEN-CHINGWINNIE" label="LI,WEN-CHINGWINNIE" />
+      <node id="Roberts,JohnA." label="Roberts,JohnA." />
+      <node id="CACCETTA,LOUIS" label="CACCETTA,LOUIS" />
+      <node id="Achuthan,Nirmala" label="Achuthan,Nirmala" />
+      <node id="ORDMAN,EDWARDTHORNE" label="ORDMAN,EDWARDTHORNE" />
+      <node id="DeResmini,MarialuisaJ." label="DeResmini,MarialuisaJ." />
+      <node id="Wilf,HerbertSaul" label="Wilf,HerbertSaul" />
+      <node id="Hilton,AnthonyJ.W." label="Hilton,AnthonyJ.W." />
+      <node id="Hodges,Wilfrid" label="Hodges,Wilfrid" />
+      <node id="MAULDIN,RICHARDDANIEL" label="MAULDIN,RICHARDDANIEL" />
+      <node id="ROBINSON,ROBERTWILLIAM" label="ROBINSON,ROBERTWILLIAM" />
+      <node id="Zeilberger,Doron" label="Zeilberger,Doron" />
+      <node id="Beineke,LowellWayne" label="Beineke,LowellWayne" />
+      <node id="Dutton,RonaldDuane" label="Dutton,RonaldDuane" />
+      <node id="Eroh,LindaLouise" label="Eroh,LindaLouise" />
+      <node id="Geller,DennisPaul" label="Geller,DennisPaul" />
+      <node id="HEDETNIEMI,STEPHENTRAVIS" label="HEDETNIEMI,STEPHENTRAVIS" />
+      <node id="HENNING,MICHAELANTHONY" label="HENNING,MICHAELANTHONY" />
+      <node id="Jordon,Heather(Gavlas)" label="Jordon,Heather(Gavlas)" />
+      <node id="Polimeni,AlbertD." label="Polimeni,AlbertD." />
+      <node id="Raines,MichaelEdwin" label="Raines,MichaelEdwin" />
+      <node id="Saba,Farrokh" label="Saba,Farrokh" />
+      <node id="Schultz,Kelly" label="Schultz,Kelly" />
+      <node id="Schultz,Michelle" label="Schultz,Michelle" />
+      <node id="Slater,PeterJohn" label="Slater,PeterJohn" />
+      <node id="WILSON,ROBINJAMES" label="WILSON,ROBINJAMES" />
+      <node id="Koh,KheeMeng" label="Koh,KheeMeng" />
+      <node id="Poh,RogerKhengSiong" label="Poh,RogerKhengSiong" />
+      <node id="CHEN,GUANTAO" label="CHEN,GUANTAO" />
+      <node id="Faudree,JillR." label="Faudree,JillR." />
+      <node id="Ferrara,MichaelJ." label="Ferrara,MichaelJ." />
+      <node id="HATTINGH,JOHANNESHENDRIK" label="HATTINGH,JOHANNESHENDRIK" />
+      <node id="LASKAR,RENUCHAKRAVARTI" label="LASKAR,RENUCHAKRAVARTI" />
+      <node id="Li,Hao^" label="Li,Hao^" />
+      <node id="Markus,LisaRosann" label="Markus,LisaRosann" />
+      <node id="Yu,Xingxing" label="Yu,Xingxing" />
+      <node id="Zhou,HuiShan" label="Zhou,HuiShan" />
+      <node id="CHEN,HANG" label="CHEN,HANG" />
+      <node id="Hwang,FrankKwangming" label="Hwang,FrankKwangming" />
+      <node id="CHINN,PHYLLISZWEIG" label="CHINN,PHYLLISZWEIG" />
+      <node id="Hedetniemi,SandraMitchell" label="Hedetniemi,SandraMitchell" />
+      <node id="Birch,BryanJ." label="Birch,BryanJ." />
+      <node id="Hall,Marshall,Jr." label="Hall,Marshall,Jr." />
+      <node id="Lewis,DonaldJohn" label="Lewis,DonaldJohn" />
+      <node id="SCHINZEL,ANDRZEJBOBOLAMARIA" label="SCHINZEL,ANDRZEJBOBOLAMARIA" />
+      <node id="DIACONIS,PERSIW." label="DIACONIS,PERSIW." />
+      <node id="FABER,VANCE" label="FABER,VANCE" />
+      <node id="Laczkovich,Miklos" label="Laczkovich,Miklos" />
+      <node id="Shearer,JamesB." label="Shearer,JamesB." />
+      <node id="Sturtevant,DeanG." label="Sturtevant,DeanG." />
+      <node id="ULAM,STANISLAWMARCIN" label="ULAM,STANISLAWMARCIN" />
+      <node id="Ellingham,MarkN." label="Ellingham,MarkN." />
+      <node id="Jackson,DouglasE." label="Jackson,DouglasE." />
+      <node id="Dukes,PeterJ." label="Dukes,PeterJ." />
+      <node id="Kocay,WilliamL." label="Kocay,WilliamL." />
+      <node id="Rees,RolfStephen" label="Rees,RolfStephen" />
+      <node id="STINSON,DOUGLASROBERT" label="STINSON,DOUGLASROBERT" />
+      <node id="Vanstone,ScottAlexander" label="Vanstone,ScottAlexander" />
+      <node id="Wagner,DavidGustav" label="Wagner,DavidGustav" />
+      <node id="Elkies,NoamD." label="Elkies,NoamD." />
+      <node id="CSISZAR,IMRE" label="CSISZAR,IMRE" />
+      <node id="Baker,Alan" label="Baker,Alan" />
+      <node id="Halberstam,Heini" label="Halberstam,Heini" />
+      <node id="MAHLER,KURT" label="MAHLER,KURT" />
+      <node id="Roth,KlausFriedrich" label="Roth,KlausFriedrich" />
+      <node id="Besicovitch,AbramSamoilovitch" label="Besicovitch,AbramSamoilovitch" />
+      <node id="Miklos,Dezso" label="Miklos,Dezso" />
+      <node id="SZEKERES,GEORGE" label="SZEKERES,GEORGE" />
+      <node id="Lundgren,J.Richard" label="Lundgren,J.Richard" />
+      <node id="Grekos,Georges" label="Grekos,Georges" />
+      <node id="Iosifescu,Marius" label="Iosifescu,Marius" />
+      <node id="LEV,VSEVOLODF." label="LEV,VSEVOLODF." />
+      <node id="Narkiewicz,Wladyslaw" label="Narkiewicz,Wladyslaw" />
+      <node id="Ray-Chaudhuri,Dwijendra(Dijen)Kumar" label="Ray-Chaudhuri,Dwijendra(Dijen)Kumar" />
+      <node id="Hanlon,PhilipJ." label="Hanlon,PhilipJ." />
+      <node id="DIXMIER,JACQUES" label="DIXMIER,JACQUES" />
+      <node id="Kahane,Jean-Pierre" label="Kahane,Jean-Pierre" />
+      <node id="HANANI,HAIM" label="HANANI,HAIM" />
+      <node id="Schoenberg,IsaacJacob" label="Schoenberg,IsaacJacob" />
+      <node id="Little,CharlesH.C." label="Little,CharlesH.C." />
+      <node id="ELEKES,GYORGY" label="ELEKES,GYORGY" />
+      <node id="Szabo,Endre" label="Szabo,Endre" />
+      <node id="Mycielski,Jan" label="Mycielski,Jan" />
+      <node id="DeLaVina,Ermelinda" label="DeLaVina,Ermelinda" />
+      <node id="Favaron,Odile" label="Favaron,Odile" />
+      <node id="Yoshimoto,Kiyoshi" label="Yoshimoto,Kiyoshi" />
+      <node id="Gao,Biao" label="Gao,Biao" />
+      <node id="Raspaud,Andre" label="Raspaud,Andre" />
+      <node id="Sopena,Eric" label="Sopena,Eric" />
+      <node id="GILLIS,JOSEPHE." label="GILLIS,JOSEPHE." />
+      <node id="Stolarsky,KennethB." label="Stolarsky,KennethB." />
+      <node id="Lee,SangJune" label="Lee,SangJune" />
+      <node id="Patkos,Balazs" label="Patkos,Balazs" />
+      <node id="Siggers,MarkH." label="Siggers,MarkH." />
+      <node id="Stechkin,BorisS." label="Stechkin,BorisS." />
+      <node id="Chern,Shiing-Shen" label="Chern,Shiing-Shen" />
+      <node id="Boros,Endre" label="Boros,Endre" />
+      <node id="Dyer,MartinE." label="Dyer,MartinE." />
+      <node id="Gerbner,Daniel" label="Gerbner,Daniel" />
+      <node id="Kundgen,Andre" label="Kundgen,Andre" />
+      <node id="REZNICK,BRUCEARIE" label="REZNICK,BRUCEARIE" />
+      <node id="RADO,RICHARD" label="RADO,RICHARD" />
+      <node id="Lambek,Joachim" label="Lambek,Joachim" />
+      <node id="Vestergaard,PrebenDahl" label="Vestergaard,PrebenDahl" />
+      <node id="Blair,JeanRaganStephenson" label="Blair,JeanRaganStephenson" />
+      <node id="Day,DavidP." label="Day,DavidP." />
+      <node id="Dunbar,JeanElliott" label="Dunbar,JeanElliott" />
+      <node id="Kristiansen,Petter" label="Kristiansen,Petter" />
+      <node id="Mathieu(Kenyon),Claire" label="Mathieu(Kenyon),Claire" />
+      <node id="McPillan,CharlesA." label="McPillan,CharlesA." />
+      <node id="McRae,AliceAnne" label="McRae,AliceAnne" />
+      <node id="Pepper,RyanD." label="Pepper,RyanD." />
+      <node id="Rall,DouglasFrank" label="Rall,DouglasFrank" />
+      <node id="Skaggs,RobertDuane" label="Skaggs,RobertDuane" />
+      <node id="Woess,Wolfgang" label="Woess,Wolfgang" />
+      <node id="GRAHAM,SIDNEYWEST" label="GRAHAM,SIDNEYWEST" />
+      <node id="Enflo,PerH." label="Enflo,PerH." />
+      <node id="Gronau,Hans-DietrichO.F." label="Gronau,Hans-DietrichO.F." />
+      <node id="MAIER,HELMUT" label="MAIER,HELMUT" />
+      <node id="Powell,BarryJ." label="Powell,BarryJ." />
+      <node id="Cassels,JohnWilliamScott" label="Cassels,JohnWilliamScott" />
+      <node id="Jensen,TommyR." label="Jensen,TommyR." />
+      <node id="Toth,Geza^" label="Toth,Geza^" />
+      <node id="STEWART,CAMERONLEIGH" label="STEWART,CAMERONLEIGH" />
+      <node id="Weiss,WilliamA.R." label="Weiss,WilliamA.R." />
+      <node id="HALASZ,GABOR^" label="HALASZ,GABOR^" />
+      <node id="Seberry,JenniferR.(Wallis)" label="Seberry,JenniferR.(Wallis)" />
+      <node id="Schrijver,Alexander" label="Schrijver,Alexander" />
+      <node id="McNulty,GeorgeF." label="McNulty,GeorgeF." />
+      <node id="Pfaff,JohnStuart" label="Pfaff,JohnStuart" />
+      <node id="Rolewicz,Stefan" label="Rolewicz,Stefan" />
+      <node id="Hochstattler,Winfried" label="Hochstattler,Winfried" />
+      <node id="Bau,Sheng" label="Bau,Sheng" />
+      <node id="Bellman,RichardErnest" label="Bellman,RichardErnest" />
+      <node id="Randall,DanaJ." label="Randall,DanaJ." />
+      <node id="VANKAMPEN,EGBERTUSRUDOLF" label="VANKAMPEN,EGBERTUSRUDOLF" />
+      <node id="WINTNER,AURELFRIEDRICH" label="WINTNER,AURELFRIEDRICH" />
+      <node id="OXTOBY,JOHNC." label="OXTOBY,JOHNC." />
+      <node id="Person,Yury" label="Person,Yury" />
+      <node id="Sunderam,VaidyS." label="Sunderam,VaidyS." />
+      <node id="Cusick,ThomasW." label="Cusick,ThomasW." />
+      <node id="Achlioptas,Dimitris" label="Achlioptas,Dimitris" />
+      <node id="VESZTERGOMBI,KATALINL." label="VESZTERGOMBI,KATALINL." />
+      <node id="LOXTON,JOHNHAROLD" label="LOXTON,JOHNHAROLD" />
+      <node id="Thangadurai,Ravindranathan" label="Thangadurai,Ravindranathan" />
+      <node id="MAKKAI,MIHALYMICHAEL" label="MAKKAI,MIHALYMICHAEL" />
+      <node id="MCELIECE,ROBERTJAMES" label="MCELIECE,ROBERTJAMES" />
+      <node id="Onyszchuk,IvanM." label="Onyszchuk,IvanM." />
+      <node id="Posner,EdwardC." label="Posner,EdwardC." />
+      <node id="Stanton,RalphGordon" label="Stanton,RalphGordon" />
+      <node id="Jakimovski,Amnon" label="Jakimovski,Amnon" />
+      <node id="Tzimbalario,Jean(Sidon)" label="Tzimbalario,Jean(Sidon)" />
+      <node id="Robalewska,HannaD." label="Robalewska,HannaD." />
+      <node id="Tverberg,HelgeA." label="Tverberg,HelgeA." />
+      <node id="Li,CaiHeng" label="Li,CaiHeng" />
+      <node id="Macaj,Martin" label="Macaj,Martin" />
+      <node id="Zhou,Sanming" label="Zhou,Sanming" />
+      <node id="ZAREMBA,STANISLAWKRYSTYN" label="ZAREMBA,STANISLAWKRYSTYN" />
+      <node id="SUEN,W.-C.STEPHEN" label="SUEN,W.-C.STEPHEN" />
+      <node id="VOLKMANN,BODO" label="VOLKMANN,BODO" />
+      <node id="ZAKS,ABRAHAM" label="ZAKS,ABRAHAM" />
+    </nodes>
+    <edges>
+      <edge id="1" source="ABBOTT,HARVEYLESLIE" target="HANSON,DENIS" />
+      <edge id="2" source="ABBOTT,HARVEYLESLIE" target="Hare,DonovanR." />
+      <edge id="5" source="ABBOTT,HARVEYLESLIE" target="MEIR,AMRAM" />
+      <edge id="6" source="ABBOTT,HARVEYLESLIE" target="MOON,JOHNW." />
+      <edge id="7" source="ABBOTT,HARVEYLESLIE" target="MOSER,LEO" />
+      <edge id="8" source="ABBOTT,HARVEYLESLIE" target="Pareek,ChandraMohan" />
+      <edge id="9" source="ABBOTT,HARVEYLESLIE" target="Riddell,James" />
+      <edge id="11" source="ABBOTT,HARVEYLESLIE" target="SIMMONS,GUSTAVUSJ." />
+      <edge id="12" source="ABBOTT,HARVEYLESLIE" target="SUBBARAO,MATUKUMALLIVENKATA" />
+      <edge id="13" source="ABBOTT,HARVEYLESLIE" target="Suryanarayana,D." />
+      <edge id="14" source="ABBOTT,HARVEYLESLIE" target="Toft,Bjarne" />
+      <edge id="23" source="HANSON,DENIS" target="Duffus,DwightA." />
+      <edge id="25" source="HANSON,DENIS" target="MOON,JOHNW." />
+      <edge id="27" source="HANSON,DENIS" target="Toft,Bjarne" />
+      <edge id="40" source="MEIR,AMRAM" target="BOLLOBAS,BELA" />
+      <edge id="45" source="MEIR,AMRAM" target="Jakimovski,Amnon" />
+      <edge id="46" source="MEIR,AMRAM" target="MOON,JOHNW." />
+      <edge id="47" source="MEIR,AMRAM" target="MOSER,LEO" />
+      <edge id="57" source="MEIR,AMRAM" target="Tzimbalario,Jean(Sidon)" />
+      <edge id="62" source="MOON,JOHNW." target="HAJNAL,ANDRAS" />
+      <edge id="66" source="MOON,JOHNW." target="MOSER,LEO" />
+      <edge id="68" source="MOON,JOHNW." target="Nara,Chie" />
+      <edge id="75" source="MOSER,LEO" target="Lambek,Joachim" />
+      <edge id="77" source="MOSER,LEO" target="Riddell,James" />
+      <edge id="79" source="Pareek,ChandraMohan" target="FUREDI,ZOLTAN" />
+      <edge id="91" source="SAUER,NORBERTW." target="MILNER,ERICCHARLES" />
+      <edge id="93" source="SAUER,NORBERTW." target="RODL,VOJTECH" />
+      <edge id="97" source="SAUER,NORBERTW." target="Imrich,Wilfried" />
+      <edge id="104" source="SAUER,NORBERTW." target="SCHONHEIM,JOCHANAN" />
+      <edge id="106" source="SAUER,NORBERTW." target="SPENCER,JOELHAROLD" />
+      <edge id="120" source="SIMMONS,GUSTAVUSJ." target="Slater,PeterJohn" />
+      <edge id="130" source="SUBBARAO,MATUKUMALLIVENKATA" target="Andrews,GeorgeW.Eyre" />
+      <edge id="135" source="SUBBARAO,MATUKUMALLIVENKATA" target="Suryanarayana,D." />
+      <edge id="139" source="Toft,Bjarne" target="KOSTOCHKA,ALEXANDRV." />
+      <edge id="156" source="Kalmar,Laszlo" target="HAJNAL,ANDRAS" />
+      <edge id="179" source="Rote,Gunter" target="ARONOV,BORIS" />
+      <edge id="198" source="STRAUS,ERNSTGABOR" target="RUBEL,LEEALBERT" />
+      <edge id="208" source="STRAUS,ERNSTGABOR" target="Guralnick,RobertM." />
+      <edge id="221" source="Dilcher,Karl" target="RUBEL,LEEALBERT" />
+      <edge id="235" source="GRANVILLE,ANDREWJAMES" target="Elkies,NoamD." />
+      <edge id="236" source="GRANVILLE,ANDREWJAMES" target="Enflo,PerH." />
+      <edge id="239" source="GRANVILLE,ANDREWJAMES" target="Gronau,Hans-DietrichO.F." />
+      <edge id="250" source="GRANVILLE,ANDREWJAMES" target="Pintz,Janos" />
+      <edge id="254" source="GRANVILLE,ANDREWJAMES" target="Powell,BarryJ." />
+      <edge id="256" source="GRANVILLE,ANDREWJAMES" target="SCHINZEL,ANDRZEJBOBOLAMARIA" />
+      <edge id="264" source="GRANVILLE,ANDREWJAMES" target="TETALI,PRASADVENKATASITARAMAVARA" />
+      <edge id="268" source="AHARONI,RON" target="Berger,Eli" />
+      <edge id="269" source="AHARONI,RON" target="Chudnovsky,Maria" />
+      <edge id="270" source="AHARONI,RON" target="Diestel,Reinhard" />
+      <edge id="271" source="AHARONI,RON" target="Duchet,Pierre" />
+      <edge id="272" source="AHARONI,RON" target="HAJNAL,ANDRAS" />
+      <edge id="273" source="AHARONI,RON" target="Hajnal,Peter" />
+      <edge id="274" source="AHARONI,RON" target="Hartman,IrithBen-Arroyo" />
+      <edge id="276" source="AHARONI,RON" target="HOFFMAN,ALANJEROME" />
+      <edge id="277" source="AHARONI,RON" target="HOLZMAN,RON" />
+      <edge id="280" source="AHARONI,RON" target="LINIAL,NATHAN" />
+      <edge id="283" source="AHARONI,RON" target="Meshulam,Roy" />
+      <edge id="285" source="AHARONI,RON" target="Nash-Williams,CrispinSt.JohnAlvah" />
+      <edge id="286" source="AHARONI,RON" target="Pouzet,Maurice" />
+      <edge id="287" source="AHARONI,RON" target="Prikry,Karel" />
+      <edge id="291" source="AHARONI,RON" target="Wajnryb,Bronislaw" />
+      <edge id="293" source="Berger,Eli" target="HOLZMAN,RON" />
+      <edge id="300" source="Duchet,Pierre" target="BOLLOBAS,BELA" />
+      <edge id="308" source="HAJNAL,ANDRAS" target="FUREDI,ZOLTAN" />
+      <edge id="311" source="HAJNAL,ANDRAS" target="Foreman,MatthewD." />
+      <edge id="313" source="HAJNAL,ANDRAS" target="HAMBURGER,PETER" />
+      <edge id="321" source="HAJNAL,ANDRAS" target="MATE,ATTILA" />
+      <edge id="343" source="HAJNAL,ANDRAS" target="Weiss,WilliamA.R." />
+      <edge id="346" source="Hajnal,Peter" target="FUREDI,ZOLTAN" />
+      <edge id="347" source="Hajnal,Peter" target="KOMLOS,JANOS" />
+      <edge id="355" source="Hartman,IrithBen-Arroyo" target="HOFFMAN,ALANJEROME" />
+      <edge id="369" source="HOFFMAN,ALANJEROME" target="Bellman,RichardErnest" />
+      <edge id="371" source="HOFFMAN,ALANJEROME" target="Boros,Endre" />
+      <edge id="373" source="HOFFMAN,ALANJEROME" target="Buckley,Fred" />
+      <edge id="374" source="HOFFMAN,ALANJEROME" target="Coppersmith,Don" />
+      <edge id="380" source="HOFFMAN,ALANJEROME" target="Karp,RichardM." />
+      <edge id="388" source="HOFFMAN,ALANJEROME" target="Shamir,Ron" />
+      <edge id="390" source="HOFFMAN,ALANJEROME" target="Vince,AndrewJ." />
+      <edge id="396" source="HOLZMAN,RON" target="FUREDI,ZOLTAN" />
+      <edge id="397" source="HOLZMAN,RON" target="Bohman,TomA." />
+      <edge id="401" source="HOLZMAN,RON" target="KLEITMAN,DANIELJ." />
+      <edge id="402" source="HOLZMAN,RON" target="Korner,Janos" />
+      <edge id="404" source="HOLZMAN,RON" target="LEV,VSEVOLODF." />
+      <edge id="405" source="HOLZMAN,RON" target="LINIAL,NATHAN" />
+      <edge id="406" source="HOLZMAN,RON" target="Meshulam,Roy" />
+      <edge id="407" source="HOLZMAN,RON" target="Peleg,David" />
+      <edge id="408" source="HOLZMAN,RON" target="Pinchasi,Rom" />
+      <edge id="410" source="KOMJATH,PETER" target="ELEKES,GYORGY" />
+      <edge id="416" source="KOMJATH,PETER" target="Laczkovich,Miklos" />
+      <edge id="437" source="KRIVELEVICH,MICHAEL" target="Coja-Oghlan,Amin" />
+      <edge id="457" source="KRIVELEVICH,MICHAEL" target="Samotij,Wojciech" />
+      <edge id="464" source="KRIVELEVICH,MICHAEL" target="Sudakov,Benjamin" />
+      <edge id="476" source="LINIAL,NATHAN" target="FUREDI,ZOLTAN" />
+      <edge id="479" source="LINIAL,NATHAN" target="Aggarwal,Alok" />
+      <edge id="490" source="LINIAL,NATHAN" target="Goldreich,Oded" />
+      <edge id="495" source="LINIAL,NATHAN" target="Kahn,JeffryNed" />
+      <edge id="505" source="LINIAL,NATHAN" target="Meshulam,Roy" />
+      <edge id="506" source="LINIAL,NATHAN" target="MORAN,SHLOMO" />
+      <edge id="511" source="LINIAL,NATHAN" target="Parnas,Michal" />
+      <edge id="513" source="LINIAL,NATHAN" target="Peleg,David" />
+      <edge id="518" source="LINIAL,NATHAN" target="SAKS,MICHAELEZRA" />
+      <edge id="523" source="LINIAL,NATHAN" target="Tarsi,Michael" />
+      <edge id="525" source="LINIAL,NATHAN" target="Wigderson,Avi" />
+      <edge id="527" source="LOEBL,MARTIN" target="FRAENKEL,AVIEZRISIEGMUND" />
+      <edge id="562" source="MAGIDOR,MENACHEM" target="SHELAH,SAHARON" />
+      <edge id="567" source="Meshulam,Roy" target="KLEITMAN,DANIELJ." />
+      <edge id="582" source="MILNER,ERICCHARLES" target="SCHONHEIM,JOCHANAN" />
+      <edge id="583" source="MILNER,ERICCHARLES" target="SHELAH,SAHARON" />
+      <edge id="643" source="SHELAH,SAHARON" target="SPENCER,JOELHAROLD" />
+      <edge id="654" source="Szabo,Tibor" target="ALON,NOGAM." />
+      <edge id="655" source="Szabo,Tibor" target="BABAI,LASZLO" />
+      <edge id="657" source="Szabo,Tibor" target="SPENCER,JOELHAROLD" />
+      <edge id="659" source="THOMASSEN,CARSTEN" target="ALON,NOGAM." />
+      <edge id="711" source="Wajnryb,Bronislaw" target="ZAKS,ABRAHAM" />
+      <edge id="722" source="Brandt,Stephan" target="CHEN,GUANTAO" />
+      <edge id="737" source="Duffus,DwightA." target="KIERSTEAD,HENRYA.^" />
+      <edge id="738" source="Duffus,DwightA." target="KLEITMAN,DANIELJ." />
+      <edge id="741" source="Duffus,DwightA." target="NESETRIL,JAROSLAV" />
+      <edge id="747" source="KLEITMAN,DANIELJ." target="ARONOV,BORIS" />
+      <edge id="753" source="KLEITMAN,DANIELJ." target="FUREDI,ZOLTAN" />
+      <edge id="757" source="KLEITMAN,DANIELJ." target="HAMBURGER,PETER" />
+      <edge id="760" source="KLEITMAN,DANIELJ." target="Aggarwal,Alok" />
+      <edge id="764" source="KLEITMAN,DANIELJ." target="Bohman,TomA." />
+      <edge id="766" source="KLEITMAN,DANIELJ." target="Coppersmith,Don" />
+      <edge id="770" source="KLEITMAN,DANIELJ." target="Fellows,MichaelRalph" />
+      <edge id="771" source="KLEITMAN,DANIELJ." target="Finkelstein,LarryA." />
+      <edge id="777" source="KLEITMAN,DANIELJ." target="Kahn,JeffryNed" />
+      <edge id="791" source="KLEITMAN,DANIELJ." target="Pinchasi,Rom" />
+      <edge id="797" source="KLEITMAN,DANIELJ." target="SAKS,MICHAELEZRA" />
+      <edge id="799" source="KLEITMAN,DANIELJ." target="Seymour,PaulD." />
+      <edge id="802" source="KLEITMAN,DANIELJ." target="Sturtevant,DeanG." />
+      <edge id="805" source="KLEITMAN,DANIELJ." target="Toth,Geza^" />
+      <edge id="807" source="PRINS,GEERTCALEBERNST" target="HARARY,FRANK" />
+      <edge id="820" source="TUZA,ZSOLT" target="BERTRAM,EDWARDARTHUR" />
+      <edge id="826" source="TUZA,ZSOLT" target="FAUDREE,RALPHJASPER,JR." />
+      <edge id="831" source="TUZA,ZSOLT" target="GYARFAS,ANDRAS" />
+      <edge id="833" source="TUZA,ZSOLT" target="HARARY,FRANK" />
+      <edge id="843" source="TUZA,ZSOLT" target="ORDMAN,EDWARDTHORNE" />
+      <edge id="848" source="TUZA,ZSOLT" target="ROUSSEAU,CECILCLYDE" />
+      <edge id="853" source="TUZA,ZSOLT" target="SZEMEREDI,ENDRE" />
+      <edge id="865" source="TUZA,ZSOLT" target="Chou,Wun-Seng" />
+      <edge id="890" source="TUZA,ZSOLT" target="Mubayi,Dhruv" />
+      <edge id="914" source="TUZA,ZSOLT" target="Zhou,HuiShan" />
+      <edge id="915" source="WEST,DOUGLASBRENT" target="ALON,NOGAM." />
+      <edge id="917" source="WEST,DOUGLASBRENT" target="CHEN,GUANTAO" />
+      <edge id="931" source="WEST,DOUGLASBRENT" target="SPENCER,JOELHAROLD" />
+      <edge id="933" source="WEST,DOUGLASBRENT" target="TROTTER,WILLIAMTHOMAS" />
+      <edge id="981" source="WEST,DOUGLASBRENT" target="Reed,BruceA." />
+      <edge id="1017" source="AJTAI,MIKLOS" target="Pintz,Janos" />
+      <edge id="1036" source="ALON,NOGAM." target="BABAI,LASZLO" />
+      <edge id="1048" source="ALON,NOGAM." target="Brualdi,RichardA." />
+      <edge id="1050" source="ALON,NOGAM." target="Capalbo,MichaelR." />
+      <edge id="1052" source="ALON,NOGAM." target="Chiniforooshan,Ehsan" />
+      <edge id="1057" source="ALON,NOGAM." target="COLBOURN,CHARLESJOSEPH" />
+      <edge id="1060" source="ALON,NOGAM." target="Demaine,ErikD." />
+      <edge id="1061" source="ALON,NOGAM." target="Dewdney,AlexanderKeewatin" />
+      <edge id="1062" source="ALON,NOGAM." target="Doerr,Benjamin" />
+      <edge id="1063" source="ALON,NOGAM." target="DUKE,RICHARDALTER" />
+      <edge id="1064" source="ALON,NOGAM." target="Edelman,PaulH." />
+      <edge id="1066" source="ALON,NOGAM." target="Erdos,PeterL." />
+      <edge id="1084" source="ALON,NOGAM." target="GRAHAM,RONALDLEWIS" />
+      <edge id="1160" source="ALON,NOGAM." target="Pudlak,Pavel" />
+      <edge id="1161" source="ALON,NOGAM." target="Pulleyblank,WilliamR." />
+      <edge id="1162" source="ALON,NOGAM." target="Rabin,MichaelO." />
+      <edge id="1164" source="ALON,NOGAM." target="Reed,BruceA." />
+      <edge id="1167" source="ALON,NOGAM." target="RODL,VOJTECH" />
+      <edge id="1189" source="ALON,NOGAM." target="SPENCER,JOELHAROLD" />
+      <edge id="1192" source="ALON,NOGAM." target="Stern,JulienP." />
+      <edge id="1198" source="ALON,NOGAM." target="SZEGEDY,MARIO" />
+      <edge id="1206" source="ALON,NOGAM." target="TROTTER,WILLIAMTHOMAS" />
+      <edge id="1207" source="ALON,NOGAM." target="Vempala,SantoshS." />
+      <edge id="1215" source="ALON,NOGAM." target="WINKLER,PETERMANN" />
+      <edge id="1231" source="BABAI,LASZLO" target="GRAHAM,RONALDLEWIS" />
+      <edge id="1234" source="BABAI,LASZLO" target="Imrich,Wilfried" />
+      <edge id="1239" source="BABAI,LASZLO" target="Kucera,Ludek" />
+      <edge id="1251" source="BABAI,LASZLO" target="Pudlak,Pavel" />
+      <edge id="1255" source="BABAI,LASZLO" target="RODL,VOJTECH" />
+      <edge id="1268" source="BABAI,LASZLO" target="SPENCER,JOELHAROLD" />
+      <edge id="1270" source="BABAI,LASZLO" target="SZEGEDY,MARIO" />
+      <edge id="1279" source="Bruck,Jehoshua" target="SZEMEREDI,ENDRE" />
+      <edge id="1328" source="Gurevich,Yuri" target="BLASS,ANDREASRAPHAEL" />
+      <edge id="1336" source="Karabeg,Dino" target="SZEMEREDI,ENDRE" />
+      <edge id="1339" source="KOMLOS,JANOS" target="CSISZAR,IMRE" />
+      <edge id="1340" source="KOMLOS,JANOS" target="FUREDI,ZOLTAN" />
+      <edge id="1345" source="KOMLOS,JANOS" target="Kahn,JeffryNed" />
+      <edge id="1356" source="KOMLOS,JANOS" target="SARKOZY,ANDRAS" />
+      <edge id="1362" source="KOMLOS,JANOS" target="Steiger,WilliamL." />
+      <edge id="1376" source="Pintz,Janos" target="HALASZ,GABOR^" />
+      <edge id="1386" source="Pudlak,Pavel" target="RODL,VOJTECH" />
+      <edge id="1388" source="Pudlak,Pavel" target="SZEGEDY,MARIO" />
+      <edge id="1391" source="Rabani,Yuval" target="SAKS,MICHAELEZRA" />
+      <edge id="1396" source="RODL,VOJTECH" target="COLBOURN,CHARLESJOSEPH" />
+      <edge id="1397" source="RODL,VOJTECH" target="DUKE,RICHARDALTER" />
+      <edge id="1401" source="RODL,VOJTECH" target="GRAHAM,RONALDLEWIS" />
+      <edge id="1419" source="RODL,VOJTECH" target="Capalbo,MichaelR." />
+      <edge id="1436" source="RODL,VOJTECH" target="Kucera,Ludek" />
+      <edge id="1466" source="RODL,VOJTECH" target="SPENCER,JOELHAROLD" />
+      <edge id="1477" source="RODL,VOJTECH" target="TROTTER,WILLIAMTHOMAS" />
+      <edge id="1482" source="RODL,VOJTECH" target="WINKLER,PETERMANN" />
+      <edge id="1514" source="SPENCER,JOELHAROLD" target="GRAHAM,RONALDLEWIS" />
+      <edge id="1535" source="SPENCER,JOELHAROLD" target="Doerr,Benjamin" />
+      <edge id="1553" source="SPENCER,JOELHAROLD" target="Rabin,MichaelO." />
+      <edge id="1558" source="SPENCER,JOELHAROLD" target="Shamir,Eliahu" />
+      <edge id="1569" source="SPENCER,JOELHAROLD" target="TROTTER,WILLIAMTHOMAS" />
+      <edge id="1573" source="SPENCER,JOELHAROLD" target="WINKLER,PETERMANN" />
+      <edge id="1580" source="Steiger,WilliamL." target="ZAREMBA,STANISLAWKRYSTYN" />
+      <edge id="1587" source="SZEMEREDI,ENDRE" target="GYARFAS,ANDRAS" />
+      <edge id="1594" source="SZEMEREDI,ENDRE" target="RUSZINKO,MIKLOS" />
+      <edge id="1599" source="SZEMEREDI,ENDRE" target="SIMONOVITS,MIKLOS" />
+      <edge id="1609" source="SZEMEREDI,ENDRE" target="Leighton,FrankThomson(Tom)" />
+      <edge id="1624" source="SZEMEREDI,ENDRE" target="Sudakov,Benjamin" />
+      <edge id="1640" source="Wigderson,Avi" target="SAKS,MICHAELEZRA" />
+      <edge id="1641" source="ALAVI,YOUSEF" target="Anderson,SabraSullivan" />
+      <edge id="1643" source="ALAVI,YOUSEF" target="BOALS,ALFREDJOHN" />
+      <edge id="1644" source="ALAVI,YOUSEF" target="Buckley,Fred" />
+      <edge id="1649" source="ALAVI,YOUSEF" target="Kapoor,ShashichandF." />
+      <edge id="1655" source="ALAVI,YOUSEF" target="MCCANNA,JOSEPHE." />
+      <edge id="1656" source="ALAVI,YOUSEF" target="McKee,TerryA." />
+      <edge id="1659" source="ALAVI,YOUSEF" target="OELLERMANN,ORTRUDR." />
+      <edge id="1662" source="ALAVI,YOUSEF" target="SWART,HENDRIKACORNELIASCOTT(HENDA)" />
+      <edge id="1663" source="ALAVI,YOUSEF" target="Tian,Songlin" />
+      <edge id="1664" source="ALAVI,YOUSEF" target="WANG,JIAN-FANG" />
+      <edge id="1684" source="BOALS,ALFREDJOHN" target="OELLERMANN,ORTRUDR." />
+      <edge id="1699" source="CHARTRAND,GARYTHEODORE" target="Eroh,LindaLouise" />
+      <edge id="1708" source="CHARTRAND,GARYTHEODORE" target="GRAHAM,RONALDLEWIS" />
+      <edge id="1710" source="CHARTRAND,GARYTHEODORE" target="Hashmi,JahangirA." />
+      <edge id="1719" source="CHARTRAND,GARYTHEODORE" target="Jordon,Heather(Gavlas)" />
+      <edge id="1726" source="CHARTRAND,GARYTHEODORE" target="Lesniak,LindaM." />
+      <edge id="1731" source="CHARTRAND,GARYTHEODORE" target="Mitchem,John" />
+      <edge id="1733" source="CHARTRAND,GARYTHEODORE" target="Nordhaus,EdwardAlfred" />
+      <edge id="1739" source="CHARTRAND,GARYTHEODORE" target="Raines,MichaelEdwin" />
+      <edge id="1743" source="CHARTRAND,GARYTHEODORE" target="Saba,Farrokh" />
+      <edge id="1830" source="GRAHAM,RONALDLEWIS" target="Buhler,JoeP." />
+      <edge id="1839" source="GRAHAM,RONALDLEWIS" target="Demaine,ErikD." />
+      <edge id="1850" source="GRAHAM,RONALDLEWIS" target="HELL,PAVOL" />
+      <edge id="1907" source="GRAHAM,RONALDLEWIS" target="WINKLER,PETERMANN" />
+      <edge id="1917" source="Kapoor,ShashichandF." target="OELLERMANN,ORTRUDR." />
+      <edge id="1919" source="Kapoor,ShashichandF." target="SWART,HENDRIKACORNELIASCOTT(HENDA)" />
+      <edge id="1935" source="Lesniak,LindaM." target="CHEN,GUANTAO" />
+      <edge id="1952" source="LICK,DONRAYMOND" target="HARARY,FRANK" />
+      <edge id="1964" source="LICK,DONRAYMOND" target="Zhu,BiWen" />
+      <edge id="1980" source="MCCANNA,JOSEPHE." target="CHEN,HANG" />
+      <edge id="1993" source="McKee,TerryA." target="OELLERMANN,ORTRUDR." />
+      <edge id="1998" source="OELLERMANN,ORTRUDR." target="HENNING,MICHAELANTHONY" />
+      <edge id="2002" source="OELLERMANN,ORTRUDR." target="LEHEL,JENO" />
+      <edge id="2008" source="OELLERMANN,ORTRUDR." target="Day,DavidP." />
+      <edge id="2009" source="OELLERMANN,ORTRUDR." target="Dunbar,JeanElliott" />
+      <edge id="2021" source="OELLERMANN,ORTRUDR." target="Schultz,Michelle" />
+      <edge id="2023" source="OELLERMANN,ORTRUDR." target="Slater,PeterJohn" />
+      <edge id="2025" source="OELLERMANN,ORTRUDR." target="SWART,HENDRIKACORNELIASCOTT(HENDA)" />
+      <edge id="2026" source="OELLERMANN,ORTRUDR." target="Tian,Songlin" />
+      <edge id="2061" source="SWART,HENDRIKACORNELIASCOTT(HENDA)" target="HATTINGH,JOHANNESHENDRIK" />
+      <edge id="2062" source="SWART,HENDRIKACORNELIASCOTT(HENDA)" target="HENNING,MICHAELANTHONY" />
+      <edge id="2066" source="SWART,HENDRIKACORNELIASCOTT(HENDA)" target="Day,DavidP." />
+      <edge id="2072" source="SWART,HENDRIKACORNELIASCOTT(HENDA)" target="Jackson,DouglasE." />
+      <edge id="2073" source="SWART,HENDRIKACORNELIASCOTT(HENDA)" target="Markus,LisaRosann" />
+      <edge id="2080" source="SWART,HENDRIKACORNELIASCOTT(HENDA)" target="Schultz,Michelle" />
+      <edge id="2081" source="SWART,HENDRIKACORNELIASCOTT(HENDA)" target="Slater,PeterJohn" />
+      <edge id="2088" source="Tian,Songlin" target="WANG,JIAN-FANG" />
+      <edge id="2094" source="WANG,JIAN-FANG" target="Zhou,Sanming" />
+      <edge id="2137" source="Ahlswede,RudolfF." target="RUSZINKO,MIKLOS" />
+      <edge id="2143" source="ARONOV,BORIS" target="Aggarwal,Alok" />
+      <edge id="2157" source="ARONOV,BORIS" target="Pinchasi,Rom" />
+      <edge id="2162" source="ARONOV,BORIS" target="Smorodinsky,Shakhar" />
+      <edge id="2169" source="Attiya,Hagit(Chagit)" target="MORAN,SHLOMO" />
+      <edge id="2197" source="Benjamini,Itai" target="LOVASZ,LASZLO" />
+      <edge id="2204" source="Bohman,TomA." target="BOLLOBAS,BELA" />
+      <edge id="2214" source="BOLLOBAS,BELA" target="Brightwell,GrahamR." />
+      <edge id="2217" source="BOLLOBAS,BELA" target="Chayes,JenniferTour" />
+      <edge id="2221" source="BOLLOBAS,BELA" target="Coppersmith,Don" />
+      <edge id="2227" source="BOLLOBAS,BELA" target="Frieze,AlanM." />
+      <edge id="2228" source="BOLLOBAS,BELA" target="FUREDI,ZOLTAN" />
+      <edge id="2231" source="BOLLOBAS,BELA" target="Grimmett,GeoffreyR." />
+      <edge id="2235" source="BOLLOBAS,BELA" target="Haggkvist,Roland" />
+      <edge id="2245" source="BOLLOBAS,BELA" target="Kim,JeongHan" />
+      <edge id="2246" source="BOLLOBAS,BELA" target="Klee,VictorL.,Jr." />
+      <edge id="2247" source="BOLLOBAS,BELA" target="KOHAYAKAWA,YOSHIHARU" />
+      <edge id="2248" source="BOLLOBAS,BELA" target="KOSTOCHKA,ALEXANDRV." />
+      <edge id="2251" source="BOLLOBAS,BELA" target="LEHEL,JENO" />
+      <edge id="2254" source="BOLLOBAS,BELA" target="Manvel,Bennet" />
+      <edge id="2258" source="BOLLOBAS,BELA" target="Muller,Tobias^" />
+      <edge id="2260" source="BOLLOBAS,BELA" target="Nara,Chie" />
+      <edge id="2261" source="BOLLOBAS,BELA" target="NESETRIL,JAROSLAV" />
+      <edge id="2265" source="BOLLOBAS,BELA" target="Pittel,BorisG." />
+      <edge id="2273" source="BOLLOBAS,BELA" target="Saito,Akira" />
+      <edge id="2274" source="BOLLOBAS,BELA" target="SAKS,MICHAELEZRA" />
+      <edge id="2280" source="BOLLOBAS,BELA" target="Sidorenko,AlexanderF." />
+      <edge id="2284" source="BOLLOBAS,BELA" target="Szabo,Tamas" />
+      <edge id="2286" source="BOLLOBAS,BELA" target="Thomason,AndrewGordon" />
+      <edge id="2288" source="BOLLOBAS,BELA" target="Verstraete,Jacques" />
+      <edge id="2300" source="Brightwell,GrahamR." target="KIERSTEAD,HENRYA.^" />
+      <edge id="2301" source="Brightwell,GrahamR." target="KOHAYAKAWA,YOSHIHARU" />
+      <edge id="2302" source="Brightwell,GrahamR." target="KOSTOCHKA,ALEXANDRV." />
+      <edge id="2303" source="Brightwell,GrahamR." target="NESETRIL,JAROSLAV" />
+      <edge id="2312" source="Brualdi,RichardA." target="TROTTER,WILLIAMTHOMAS" />
+      <edge id="2316" source="Caro,Yair" target="FUREDI,ZOLTAN" />
+      <edge id="2317" source="Caro,Yair" target="HENNING,MICHAELANTHONY" />
+      <edge id="2376" source="COLBOURN,CHARLESJOSEPH" target="Pulleyblank,WilliamR." />
+      <edge id="2398" source="COLBOURN,CHARLESJOSEPH" target="WINKLER,PETERMANN" />
+      <edge id="2418" source="DUKE,RICHARDALTER" target="WINKLER,PETERMANN" />
+      <edge id="2423" source="Egawa,Yoshimi" target="FAUDREE,RALPHJASPER,JR." />
+      <edge id="2426" source="Egawa,Yoshimi" target="JIN,GUOPING" />
+      <edge id="2439" source="FAUDREE,RALPHJASPER,JR." target="Broersma,HajoJ." />
+      <edge id="2449" source="FAUDREE,RALPHJASPER,JR." target="GYARFAS,ANDRAS" />
+      <edge id="2452" source="FAUDREE,RALPHJASPER,JR." target="HARARY,FRANK" />
+      <edge id="2469" source="FAUDREE,RALPHJASPER,JR." target="ORDMAN,EDWARDTHORNE" />
+      <edge id="2475" source="FAUDREE,RALPHJASPER,JR." target="ROUSSEAU,CECILCLYDE" />
+      <edge id="2476" source="FAUDREE,RALPHJASPER,JR." target="RUSZINKO,MIKLOS" />
+      <edge id="2484" source="FAUDREE,RALPHJASPER,JR." target="SIMONOVITS,MIKLOS" />
+      <edge id="2489" source="FAUDREE,RALPHJASPER,JR." target="Veldman,HenkJan" />
+      <edge id="2492" source="Feige,Uriel" target="LOVASZ,LASZLO" />
+      <edge id="2501" source="Fellows,MichaelRalph" target="RUZSA,IMREZ." />
+      <edge id="2527" source="FRANKL,PETER" target="Hilton,AnthonyJ.W." />
+      <edge id="2530" source="FRANKL,PETER" target="Kantor,WilliamM." />
+      <edge id="2536" source="FRANKL,PETER" target="Lee,SangJune" />
+      <edge id="2537" source="FRANKL,PETER" target="LI,WEN-CHINGWINNIE" />
+      <edge id="2552" source="FRANKL,PETER" target="Shearer,JamesB." />
+      <edge id="2554" source="FRANKL,PETER" target="Siggers,MarkH." />
+      <edge id="2559" source="FRANKL,PETER" target="Stechkin,BorisS." />
+      <edge id="2564" source="FRANKL,PETER" target="WILSON,RICHARDMICHAEL" />
+      <edge id="2565" source="FREIMAN,GREGORYA." target="DESHOUILLERS,JEAN-MARC" />
+      <edge id="2566" source="FREIMAN,GREGORYA." target="Galil,Zvi" />
+      <edge id="2568" source="FREIMAN,GREGORYA." target="Halberstam,Heini" />
+      <edge id="2571" source="FREIMAN,GREGORYA." target="Litsyn,SimonN." />
+      <edge id="2574" source="FREIMAN,GREGORYA." target="RUZSA,IMREZ." />
+      <edge id="2579" source="Friedgut,Ehud" target="KOHAYAKAWA,YOSHIHARU" />
+      <edge id="2592" source="Frieze,AlanM." target="SUEN,W.-C.STEPHEN" />
+      <edge id="2595" source="FUREDI,ZOLTAN" target="DECAEN,DOMINIQUE" />
+      <edge id="2602" source="FUREDI,ZOLTAN" target="Boros,Endre" />
+      <edge id="2608" source="FUREDI,ZOLTAN" target="Gerbner,Daniel" />
+      <edge id="2611" source="FUREDI,ZOLTAN" target="GUNDERSON,DAVIDSHANE" />
+      <edge id="2616" source="FUREDI,ZOLTAN" target="Kahn,JeffryNed" />
+      <edge id="2620" source="FUREDI,ZOLTAN" target="KOSTOCHKA,ALEXANDRV." />
+      <edge id="2625" source="FUREDI,ZOLTAN" target="LEHEL,JENO" />
+      <edge id="2633" source="FUREDI,ZOLTAN" target="Patkos,Balazs" />
+      <edge id="2636" source="FUREDI,ZOLTAN" target="REZNICK,BRUCEARIE" />
+      <edge id="2641" source="FUREDI,ZOLTAN" target="RUZSA,IMREZ." />
+      <edge id="2646" source="FUREDI,ZOLTAN" target="Seymour,PaulD." />
+      <edge id="2659" source="FUREDI,ZOLTAN" target="Verstraete,Jacques" />
+      <edge id="2663" source="Goldreich,Oded" target="MORAN,SHLOMO" />
+      <edge id="2673" source="GUNDERSON,DAVIDSHANE" target="KOSTOCHKA,ALEXANDRV." />
+      <edge id="2681" source="GUNDERSON,DAVIDSHANE" target="Sidorenko,AlexanderF." />
+      <edge id="2684" source="Gutin,GregoryM." target="KOSTOCHKA,ALEXANDRV." />
+      <edge id="2685" source="Gutin,GregoryM." target="RUZSA,IMREZ." />
+      <edge id="2715" source="GYARFAS,ANDRAS" target="Mubayi,Dhruv" />
+      <edge id="2717" source="GYARFAS,ANDRAS" target="ORDMAN,EDWARDTHORNE" />
+      <edge id="2720" source="GYARFAS,ANDRAS" target="ROUSSEAU,CECILCLYDE" />
+      <edge id="2721" source="GYARFAS,ANDRAS" target="RUSZINKO,MIKLOS" />
+      <edge id="2728" source="GYARFAS,ANDRAS" target="SIMONOVITS,MIKLOS" />
+      <edge id="2762" source="HAMBURGER,PETER" target="KOSTOCHKA,ALEXANDRV." />
+      <edge id="2767" source="HAMBURGER,PETER" target="Sidorenko,AlexanderF." />
+      <edge id="2772" source="HAMBURGER,PETER" target="Weiss,WilliamA.R." />
+      <edge id="2817" source="Kahn,JeffryNed" target="SAKS,MICHAELEZRA" />
+      <edge id="2831" source="Karp,RichardM." target="SAKS,MICHAELEZRA" />
+      <edge id="2845" source="KIERSTEAD,HENRYA.^" target="KOSTOCHKA,ALEXANDRV." />
+      <edge id="2850" source="KIERSTEAD,HENRYA.^" target="Mohar,Bojan" />
+      <edge id="2869" source="KOHAYAKAWA,YOSHIHARU" target="Ferrara,MichaelJ." />
+      <edge id="2880" source="KOHAYAKAWA,YOSHIHARU" target="Person,Yury" />
+      <edge id="2883" source="KOHAYAKAWA,YOSHIHARU" target="Rucinski,Andrzej" />
+      <edge id="2890" source="KOHAYAKAWA,YOSHIHARU" target="Sunderam,VaidyS." />
+      <edge id="2894" source="Korner,Janos" target="CSISZAR,IMRE" />
+      <edge id="2912" source="KOSTOCHKA,ALEXANDRV." target="Jensen,TommyR." />
+      <edge id="2919" source="KOSTOCHKA,ALEXANDRV." target="Li,Hao^" />
+      <edge id="2925" source="KOSTOCHKA,ALEXANDRV." target="NESETRIL,JAROSLAV" />
+      <edge id="2928" source="KOSTOCHKA,ALEXANDRV." target="PYBER,LASZLO" />
+      <edge id="2929" source="KOSTOCHKA,ALEXANDRV." target="Raspaud,Andre" />
+      <edge id="2932" source="KOSTOCHKA,ALEXANDRV." target="Saito,Akira" />
+      <edge id="2936" source="KOSTOCHKA,ALEXANDRV." target="Sidorenko,AlexanderF." />
+      <edge id="2940" source="KOSTOCHKA,ALEXANDRV." target="Sopena,Eric" />
+      <edge id="2946" source="KOSTOCHKA,ALEXANDRV." target="Thomason,AndrewGordon" />
+      <edge id="2954" source="Koucky,Michal" target="SAKS,MICHAELEZRA" />
+      <edge id="2956" source="Kozma,Gady" target="LOVASZ,LASZLO" />
+      <edge id="2959" source="Krasikov,Ilia" target="GODSIL,CHRISTOPHERDAVID" />
+      <edge id="2962" source="Kriz,Igor" target="NESETRIL,JAROSLAV" />
+      <edge id="2965" source="LEFMANN,HANNO" target="DEUBER,WALTERA." />
+      <edge id="2976" source="LEFMANN,HANNO" target="Thomas,Robin" />
+      <edge id="3001" source="LEHEL,JENO" target="NESETRIL,JAROSLAV" />
+      <edge id="3010" source="LEHEL,JENO" target="Yoshimoto,Kiyoshi" />
+      <edge id="3027" source="LOVASZ,LASZLO" target="GYORY,KALMAN" />
+      <edge id="3031" source="LOVASZ,LASZLO" target="Borgs,Christian" />
+      <edge id="3043" source="LOVASZ,LASZLO" target="Luby,MichaelG." />
+      <edge id="3052" source="LOVASZ,LASZLO" target="Pultr,Ales" />
+      <edge id="3054" source="LOVASZ,LASZLO" target="Safra,Shmuel" />
+      <edge id="3063" source="LOVASZ,LASZLO" target="SOS,VERATURAN" />
+      <edge id="3068" source="LOVASZ,LASZLO" target="Tardos,Gabor" />
+      <edge id="3073" source="LOVASZ,LASZLO" target="Vu,VanHa" />
+      <edge id="3081" source="Lubotzky,Alexander" target="SERESS,AKOS" />
+      <edge id="3152" source="Mohar,Bojan" target="GODSIL,CHRISTOPHERDAVID" />
+      <edge id="3177" source="NATHANSON,MELVYNBERNARD" target="CHOWLA,SARVADAMAND.S." />
+      <edge id="3183" source="NATHANSON,MELVYNBERNARD" target="RUZSA,IMREZ." />
+      <edge id="3184" source="NATHANSON,MELVYNBERNARD" target="SARKOZY,ANDRAS" />
+      <edge id="3190" source="NESETRIL,JAROSLAV" target="BURR,STEFANANDRUS" />
+      <edge id="3195" source="NESETRIL,JAROSLAV" target="GODSIL,CHRISTOPHERDAVID" />
+      <edge id="3204" source="NESETRIL,JAROSLAV" target="Hochstattler,Winfried" />
+      <edge id="3219" source="NESETRIL,JAROSLAV" target="Raspaud,Andre" />
+      <edge id="3228" source="NESETRIL,JAROSLAV" target="Solymosi,Jozsef" />
+      <edge id="3229" source="NESETRIL,JAROSLAV" target="Sopena,Eric" />
+      <edge id="3352" source="Peleg,David" target="SAKS,MICHAELEZRA" />
+      <edge id="3353" source="Peres,Yuval" target="TETALI,PRASADVENKATASITARAMAVARA" />
+      <edge id="3356" source="Pinchasi,Rom" target="LEV,VSEVOLODF." />
+      <edge id="3405" source="Pritikin,Dan" target="DECAEN,DOMINIQUE" />
+      <edge id="3409" source="Reed,BruceA." target="AVIS,DAVIDMICHAEL" />
+      <edge id="3411" source="Reed,BruceA." target="TROTTER,WILLIAMTHOMAS" />
+      <edge id="3423" source="Rudich,Steven" target="MORAN,SHLOMO" />
+      <edge id="3424" source="Rudich,Steven" target="SAKS,MICHAELEZRA" />
+      <edge id="3435" source="RUZSA,IMREZ." target="BERGELSON,VITALY" />
+      <edge id="3437" source="RUZSA,IMREZ." target="DESHOUILLERS,JEAN-MARC" />
+      <edge id="3440" source="RUZSA,IMREZ." target="LEV,VSEVOLODF." />
+      <edge id="3442" source="RUZSA,IMREZ." target="Bilu,YuriF.(Belotserkovskii)" />
+      <edge id="3449" source="RUZSA,IMREZ." target="Halberstam,Heini" />
+      <edge id="3459" source="RUZSA,IMREZ." target="SARKOZY,ANDRAS" />
+      <edge id="3466" source="RUZSA,IMREZ." target="Thangadurai,Ravindranathan" />
+      <edge id="3474" source="SAKS,MICHAELEZRA" target="Boros,Endre" />
+      <edge id="3484" source="SAKS,MICHAELEZRA" target="Mathieu(Kenyon),Claire" />
+      <edge id="3491" source="SAKS,MICHAELEZRA" target="Seymour,PaulD." />
+      <edge id="3498" source="SAKS,MICHAELEZRA" target="Sturtevant,DeanG." />
+      <edge id="3503" source="SAKS,MICHAELEZRA" target="Verstraete,Jacques" />
+      <edge id="3515" source="Seymour,PaulD." target="SIRAN,JOZEF" />
+      <edge id="3589" source="TETALI,PRASADVENKATASITARAMAVARA" target="Achlioptas,Dimitris" />
+      <edge id="3594" source="TETALI,PRASADVENKATASITARAMAVARA" target="Dyer,MartinE." />
+      <edge id="3596" source="TETALI,PRASADVENKATASITARAMAVARA" target="Kundgen,Andre" />
+      <edge id="3598" source="TETALI,PRASADVENKATASITARAMAVARA" target="Randall,DanaJ." />
+      <edge id="3602" source="Thomas,Robin" target="MCKAY,BRENDANDAMIEN" />
+      <edge id="3624" source="TROTTER,WILLIAMTHOMAS" target="WINKLER,PETERMANN" />
+      <edge id="3629" source="Welsh,DominicJ.A." target="HARARY,FRANK" />
+      <edge id="3636" source="WINKLER,PETERMANN" target="HELL,PAVOL" />
+      <edge id="3736" source="Beck,Jozsef" target="STEWART,CAMERONLEIGH" />
+      <edge id="3804" source="RUBEL,LEEALBERT" target="Chern,Shiing-Shen" />
+      <edge id="3812" source="RUBEL,LEEALBERT" target="SCHINZEL,ANDRZEJBOBOLAMARIA" />
+      <edge id="3814" source="RUBEL,LEEALBERT" target="Stolarsky,KennethB." />
+      <edge id="3815" source="RUBEL,LEEALBERT" target="Tverberg,HelgeA." />
+      <edge id="3844" source="SOS,VERATURAN" target="BROWN,WILLIAMG." />
+      <edge id="3860" source="SOS,VERATURAN" target="Borgs,Christian" />
+      <edge id="3881" source="Artin,Emil" target="CHOWLA,SARVADAMAND.S." />
+      <edge id="3891" source="CHOWLA,SARVADAMAND.S." target="Hall,Marshall,Jr." />
+      <edge id="3893" source="CHOWLA,SARVADAMAND.S." target="Lewis,DonaldJohn" />
+      <edge id="3932" source="BURR,STEFANANDRUS" target="Roberts,JohnA." />
+      <edge id="3949" source="Aggarwal,Alok" target="MORAN,SHLOMO" />
+      <edge id="3966" source="GODDARD,WAYNEDEAN" target="DeLaVina,Ermelinda" />
+      <edge id="3972" source="GODDARD,WAYNEDEAN" target="Favaron,Odile" />
+      <edge id="3999" source="GODDARD,WAYNEDEAN" target="McPillan,CharlesA." />
+      <edge id="4006" source="GODDARD,WAYNEDEAN" target="Poh,RogerKhengSiong" />
+      <edge id="4008" source="GODDARD,WAYNEDEAN" target="Rall,DouglasFrank" />
+      <edge id="4019" source="GODDARD,WAYNEDEAN" target="Wilf,HerbertSaul" />
+      <edge id="4022" source="Hurtado,Ferran" target="AVIS,DAVIDMICHAEL" />
+      <edge id="4041" source="Golomb,SolomonW." target="MCELIECE,ROBERTJAMES" />
+      <edge id="4052" source="AVIS,DAVIDMICHAEL" target="Deza,Antoine" />
+      <edge id="4129" source="GODSIL,CHRISTOPHERDAVID" target="DECAEN,DOMINIQUE" />
+      <edge id="4138" source="GODSIL,CHRISTOPHERDAVID" target="Kocay,WilliamL." />
+      <edge id="4147" source="GODSIL,CHRISTOPHERDAVID" target="Wagner,DavidGustav" />
+      <edge id="4149" source="GODSIL,CHRISTOPHERDAVID" target="Woess,Wolfgang" />
+      <edge id="4155" source="Kantor,WilliamM." target="DIACONIS,PERSIW." />
+      <edge id="4157" source="Kantor,WilliamM." target="SERESS,AKOS" />
+      <edge id="4160" source="Kucera,Ludek" target="HELL,PAVOL" />
+      <edge id="4218" source="PYBER,LASZLO" target="Ellingham,MarkN." />
+      <edge id="4224" source="PYBER,LASZLO" target="Szabo,Endre" />
+      <edge id="4225" source="PYBER,LASZLO" target="Yu,Xingxing" />
+      <edge id="4235" source="SERESS,AKOS" target="Li,CaiHeng" />
+      <edge id="4238" source="SERESS,AKOS" target="Miklos,Dezso" />
+      <edge id="4285" source="WILSON,RICHARDMICHAEL" target="HANANI,HAIM" />
+      <edge id="4290" source="WILSON,RICHARDMICHAEL" target="Dukes,PeterJ." />
+      <edge id="4294" source="WILSON,RICHARDMICHAEL" target="Onyszchuk,IvanM." />
+      <edge id="4295" source="WILSON,RICHARDMICHAEL" target="Ray-Chaudhuri,Dwijendra(Dijen)Kumar" />
+      <edge id="4296" source="WILSON,RICHARDMICHAEL" target="Vanstone,ScottAlexander" />
+      <edge id="4369" source="DESHOUILLERS,JEAN-MARC" target="Grekos,Georges" />
+      <edge id="4371" source="DESHOUILLERS,JEAN-MARC" target="Iosifescu,Marius" />
+      <edge id="4372" source="DESHOUILLERS,JEAN-MARC" target="LEV,VSEVOLODF." />
+      <edge id="4376" source="DESHOUILLERS,JEAN-MARC" target="Narkiewicz,Wladyslaw" />
+      <edge id="4377" source="DESHOUILLERS,JEAN-MARC" target="SARKOZY,ANDRAS" />
+      <edge id="4381" source="DESHOUILLERS,JEAN-MARC" target="Wooley,TrevorD." />
+      <edge id="4400" source="SARKOZY,ANDRAS" target="LEV,VSEVOLODF." />
+      <edge id="4401" source="SARKOZY,ANDRAS" target="MAIER,HELMUT" />
+      <edge id="4415" source="SARKOZY,ANDRAS" target="SZALAY,MIHALY" />
+      <edge id="4439" source="Wooley,TrevorD." target="VAUGHAN,ROBERTCHARLES" />
+      <edge id="4493" source="VAUGHAN,ROBERTCHARLES" target="LOXTON,JOHNHAROLD" />
+      <edge id="4566" source="BRENNER,JOELLEE" target="BOAS,RALPHPHILIP,JR." />
+      <edge id="4567" source="BRENNER,JOELLEE" target="BROWN,WILLIAMG." />
+      <edge id="4582" source="DECAEN,DOMINIQUE" target="Kirkland,StephenJ." />
+      <edge id="4585" source="DECAEN,DOMINIQUE" target="Lundgren,J.Richard" />
+      <edge id="4611" source="SZALAY,MIHALY" target="WILLIAMSON,ALANGLYNNE" />
+      <edge id="4631" source="Cooper,JohnK.,Jr." target="HARARY,FRANK" />
+      <edge id="4632" source="HARARY,FRANK" target="BLASS,ANDREASRAPHAEL" />
+      <edge id="4634" source="HARARY,FRANK" target="CHINN,PHYLLISZWEIG" />
+      <edge id="4638" source="HARARY,FRANK" target="FRAENKEL,AVIEZRISIEGMUND" />
+      <edge id="4645" source="HARARY,FRANK" target="Beineke,LowellWayne" />
+      <edge id="4650" source="HARARY,FRANK" target="Dutton,RonaldDuane" />
+      <edge id="4687" source="HARARY,FRANK" target="Mahmoodian,EbadollahS." />
+      <edge id="4717" source="HARARY,FRANK" target="VanderJagt,DonaldW." />
+      <edge id="4735" source="BERGELSON,VITALY" target="KOLESNIK,GRIGORIABRAMOVICH" />
+      <edge id="4739" source="BERGELSON,VITALY" target="Weiss,Benjamin" />
+      <edge id="4750" source="Boshernitzan,MichaelD." target="FRAENKEL,AVIEZRISIEGMUND" />
+      <edge id="4774" source="KOLESNIK,GRIGORIABRAMOVICH" target="GRAHAM,SIDNEYWEST" />
+      <edge id="4775" source="KOLESNIK,GRIGORIABRAMOVICH" target="Cusick,ThomasW." />
+      <edge id="4843" source="SIRAN,JOZEF" target="ROSA,ALEXANDER" />
+      <edge id="4855" source="SIRAN,JOZEF" target="Macaj,Martin" />
+      <edge id="4865" source="SIRAN,JOZEF" target="Zhou,Sanming" />
+      <edge id="4896" source="Filaseta,MichaelA." target="GRAHAM,SIDNEYWEST" />
+      <edge id="4913" source="BOAS,RALPHPHILIP,JR." target="POLLARD,HARRYSTRANGE" />
+      <edge id="4914" source="BOAS,RALPHPHILIP,JR." target="Polya,George" />
+      <edge id="4966" source="Chayes,JenniferTour" target="VESZTERGOMBI,KATALINL." />
+      <edge id="4997" source="Grimmett,GeoffreyR." target="SUEN,W.-C.STEPHEN" />
+      <edge id="5076" source="JIN,GUOPING" target="Koh,KheeMeng" />
+      <edge id="5091" source="MCKAY,BRENDANDAMIEN" target="Bau,Sheng" />
+      <edge id="5108" source="MCKAY,BRENDANDAMIEN" target="ROBINSON,ROBERTWILLIAM" />
+      <edge id="5155" source="ROUSSEAU,CECILCLYDE" target="ORDMAN,EDWARDTHORNE" />
+      <edge id="5157" source="ROUSSEAU,CECILCLYDE" target="Polimeni,AlbertD." />
+      <edge id="5204" source="Woodall,DouglasR." target="WILSON,ROBINJAMES" />
+      <edge id="5302" source="Kotzig,Anton" target="ROSA,ALEXANDER" />
+      <edge id="5308" source="ROSA,ALEXANDER" target="DeResmini,MarialuisaJ." />
+      <edge id="5331" source="ROSA,ALEXANDER" target="Rees,RolfStephen" />
+      <edge id="5335" source="ROSA,ALEXANDER" target="STINSON,DOUGLASROBERT" />
+      <edge id="5347" source="Guralnick,RobertM." target="DIACONIS,PERSIW." />
+      <edge id="5382" source="Bilu,YuriF.(Belotserkovskii)" target="LEV,VSEVOLODF." />
+      <edge id="5438" source="VanderPoorten,AlfredJacobus" target="SCHINZEL,ANDRZEJBOBOLAMARIA" />
+      <edge id="5580" source="LI,WEN-CHINGWINNIE" target="Elkies,NoamD." />
+      <edge id="5581" source="LI,WEN-CHINGWINNIE" target="Gao,Biao" />
+      <edge id="5583" source="LI,WEN-CHINGWINNIE" target="Hwang,FrankKwangming" />
+      <edge id="5592" source="CACCETTA,LOUIS" target="Achuthan,Nirmala" />
+      <edge id="5598" source="Achuthan,Nirmala" target="CHEN,GUANTAO" />
+      <edge id="5662" source="Wilf,HerbertSaul" target="SZEKERES,GEORGE" />
+      <edge id="5690" source="Hilton,AnthonyJ.W." target="RADO,RICHARD" />
+      <edge id="5692" source="Hodges,Wilfrid" target="WILSON,ROBINJAMES" />
+      <edge id="5736" source="MAULDIN,RICHARDDANIEL" target="Kahane,Jean-Pierre" />
+      <edge id="5737" source="MAULDIN,RICHARDDANIEL" target="Laczkovich,Miklos" />
+      <edge id="5742" source="ROBINSON,ROBERTWILLIAM" target="HEDETNIEMI,STEPHENTRAVIS" />
+      <edge id="5746" source="ROBINSON,ROBERTWILLIAM" target="Hanlon,PhilipJ." />
+      <edge id="5750" source="ROBINSON,ROBERTWILLIAM" target="Robalewska,HannaD." />
+      <edge id="5751" source="Zeilberger,Doron" target="GILLIS,JOSEPHE." />
+      <edge id="5752" source="Zeilberger,Doron" target="REZNICK,BRUCEARIE" />
+      <edge id="5773" source="Beineke,LowellWayne" target="WILSON,ROBINJAMES" />
+      <edge id="5780" source="Dutton,RonaldDuane" target="CHINN,PHYLLISZWEIG" />
+      <edge id="5787" source="Geller,DennisPaul" target="HEDETNIEMI,STEPHENTRAVIS" />
+      <edge id="5794" source="HEDETNIEMI,STEPHENTRAVIS" target="Blair,JeanRaganStephenson" />
+      <edge id="5812" source="HEDETNIEMI,STEPHENTRAVIS" target="Kristiansen,Petter" />
+      <edge id="5821" source="HEDETNIEMI,STEPHENTRAVIS" target="Pfaff,JohnStuart" />
+      <edge id="5825" source="HEDETNIEMI,STEPHENTRAVIS" target="Skaggs,RobertDuane" />
+      <edge id="5834" source="HENNING,MICHAELANTHONY" target="HATTINGH,JOHANNESHENDRIK" />
+      <edge id="5838" source="HENNING,MICHAELANTHONY" target="Day,DavidP." />
+      <edge id="5843" source="HENNING,MICHAELANTHONY" target="Dunbar,JeanElliott" />
+      <edge id="5848" source="HENNING,MICHAELANTHONY" target="Hedetniemi,SandraMitchell" />
+      <edge id="5853" source="HENNING,MICHAELANTHONY" target="LASKAR,RENUCHAKRAVARTI" />
+      <edge id="5854" source="HENNING,MICHAELANTHONY" target="Little,CharlesH.C." />
+      <edge id="5855" source="HENNING,MICHAELANTHONY" target="Markus,LisaRosann" />
+      <edge id="5857" source="HENNING,MICHAELANTHONY" target="McRae,AliceAnne" />
+      <edge id="5859" source="HENNING,MICHAELANTHONY" target="Pepper,RyanD." />
+      <edge id="5861" source="HENNING,MICHAELANTHONY" target="Raspaud,Andre" />
+      <edge id="5865" source="HENNING,MICHAELANTHONY" target="Schultz,Kelly" />
+      <edge id="5866" source="HENNING,MICHAELANTHONY" target="Schultz,Michelle" />
+      <edge id="5867" source="HENNING,MICHAELANTHONY" target="Slater,PeterJohn" />
+      <edge id="5871" source="HENNING,MICHAELANTHONY" target="Vestergaard,PrebenDahl" />
+      <edge id="5902" source="Slater,PeterJohn" target="HATTINGH,JOHANNESHENDRIK" />
+      <edge id="5903" source="Slater,PeterJohn" target="LASKAR,RENUCHAKRAVARTI" />
+      <edge id="5937" source="CHEN,GUANTAO" target="Faudree,JillR." />
+      <edge id="5963" source="HATTINGH,JOHANNESHENDRIK" target="Day,DavidP." />
+      <edge id="5965" source="HATTINGH,JOHANNESHENDRIK" target="Dunbar,JeanElliott" />
+      <edge id="5967" source="HATTINGH,JOHANNESHENDRIK" target="Hedetniemi,SandraMitchell" />
+      <edge id="5968" source="HATTINGH,JOHANNESHENDRIK" target="LASKAR,RENUCHAKRAVARTI" />
+      <edge id="5969" source="HATTINGH,JOHANNESHENDRIK" target="Markus,LisaRosann" />
+      <edge id="5970" source="HATTINGH,JOHANNESHENDRIK" target="McRae,AliceAnne" />
+      <edge id="5977" source="LASKAR,RENUCHAKRAVARTI" target="Boros,Endre" />
+      <edge id="5979" source="LASKAR,RENUCHAKRAVARTI" target="Dunbar,JeanElliott" />
+      <edge id="5985" source="LASKAR,RENUCHAKRAVARTI" target="Hedetniemi,SandraMitchell" />
+      <edge id="5991" source="LASKAR,RENUCHAKRAVARTI" target="Markus,LisaRosann" />
+      <edge id="5992" source="LASKAR,RENUCHAKRAVARTI" target="McRae,AliceAnne" />
+      <edge id="6018" source="Birch,BryanJ." target="SCHINZEL,ANDRZEJBOBOLAMARIA" />
+      <edge id="6040" source="SCHINZEL,ANDRZEJBOBOLAMARIA" target="Baker,Alan" />
+      <edge id="6044" source="SCHINZEL,ANDRZEJBOBOLAMARIA" target="Mycielski,Jan" />
+      <edge id="6046" source="SCHINZEL,ANDRZEJBOBOLAMARIA" target="Rolewicz,Stefan" />
+      <edge id="6049" source="SCHINZEL,ANDRZEJBOBOLAMARIA" target="Tverberg,HelgeA." />
+      <edge id="6059" source="DIACONIS,PERSIW." target="Hanlon,PhilipJ." />
+      <edge id="6069" source="FABER,VANCE" target="Mycielski,Jan" />
+      <edge id="6074" source="Laczkovich,Miklos" target="SZEKERES,GEORGE" />
+      <edge id="6077" source="Shearer,JamesB." target="MCELIECE,ROBERTJAMES" />
+      <edge id="6081" source="ULAM,STANISLAWMARCIN" target="OXTOBY,JOHNC." />
+      <edge id="6082" source="ULAM,STANISLAWMARCIN" target="Mycielski,Jan" />
+      <edge id="6147" source="Kocay,WilliamL." target="STINSON,DOUGLASROBERT" />
+      <edge id="6179" source="Rees,RolfStephen" target="STINSON,DOUGLASROBERT" />
+      <edge id="6188" source="STINSON,DOUGLASROBERT" target="Stanton,RalphGordon" />
+      <edge id="6192" source="STINSON,DOUGLASROBERT" target="Wagner,DavidGustav" />
+      <edge id="6262" source="Baker,Alan" target="STEWART,CAMERONLEIGH" />
+      <edge id="6269" source="MAHLER,KURT" target="Cassels,JohnWilliamScott" />
+      <edge id="6270" source="MAHLER,KURT" target="SZEKERES,GEORGE" />
+      <edge id="6271" source="Roth,KlausFriedrich" target="SZEKERES,GEORGE" />
+      <edge id="6273" source="Besicovitch,AbramSamoilovitch" target="RADO,RICHARD" />
+      <edge id="6376" source="Grekos,Georges" target="VOLKMANN,BODO" />
+      <edge id="6389" source="Ray-Chaudhuri,Dwijendra(Dijen)Kumar" target="HANANI,HAIM" />
+      <edge id="6399" source="DIXMIER,JACQUES" target="Kahane,Jean-Pierre" />
+      <edge id="6405" source="HANANI,HAIM" target="Schrijver,Alexander" />
+      <edge id="6416" source="Schoenberg,IsaacJacob" target="ZAREMBA,STANISLAWKRYSTYN" />
+      <edge id="6440" source="Mycielski,Jan" target="MAKKAI,MIHALYMICHAEL" />
+      <edge id="6459" source="GILLIS,JOSEPHE." target="REZNICK,BRUCEARIE" />
+      <edge id="6504" source="Chern,Shiing-Shen" target="WINTNER,AURELFRIEDRICH" />
+      <edge id="6626" source="Seberry,JenniferR.(Wallis)" target="LOXTON,JOHNHAROLD" />
+      <edge id="6634" source="McNulty,GeorgeF." target="MAKKAI,MIHALYMICHAEL" />
+      <edge id="6681" source="VANKAMPEN,EGBERTUSRUDOLF" target="WINTNER,AURELFRIEDRICH" />
+      <edge id="6717" source="MCELIECE,ROBERTJAMES" target="Onyszchuk,IvanM." />
+      <edge id="6718" source="MCELIECE,ROBERTJAMES" target="Posner,EdwardC." />
+    </edges>
+  </graph>
+</gexf>
