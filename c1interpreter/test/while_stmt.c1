@@ -1,0 +1,23 @@
+void main(){
+    int n = 15,a;
+    inputInt();
+    if(input_ivar > 4){
+        while(n > 0){
+            output_ivar = n;
+            outputInt();
+            n = n - 1;
+        }
+        a = 5656;
+    }
+    else{
+        float c = 5.66;
+        a = c;
+        while(input_ivar > 0){
+            output_ivar = input_ivar;
+            outputInt();
+            input_ivar = input_ivar - 1;
+        }
+    }
+    output_ivar = a;
+    outputInt();
+}

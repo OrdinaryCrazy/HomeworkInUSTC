@@ -1,0 +1,6 @@
+void test_func(){
+
+}
+void main(){
+    test_func();    
+}

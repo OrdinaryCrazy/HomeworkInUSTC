@@ -1,0 +1,18 @@
+digraph DFA{
+    node [shape = record];
+    struct0 [label="D0:|{(PS_1,1,[])|(PS_2,2,[])}"];
+    struct1 [label="D1:|{(PB_1,1,P3)|(PA_1,1,P5)|(PA_end,2,P5)}"];
+    struct2 [label="D2:|{(PC_1,2,P4)|(PA_1,2,P7)|(PA_end,2,P7)}"];
+    struct3 [label="D3:|{(PA_end,1,P5)|(P10,2,P5)}"];
+    struct4 [label="D4:|{(P6,1,P3)|(PB_end,1,P3)|(P3,1,[])|(PS_end,1,[])}"];
+    struct5 [label="D6:|{(P8,2,p4)|(PA_end,2,P7)|(P10,2,P7)}"];
+    struct6 [label="D7:|{(P9,2,P4)|(PC_end,2,P4)|(P4,2,[])|(PS_end,2,[])}"];
+    struct0 -> struct1[label = "x"];
+    struct0 -> struct2[label = "y"];
+    struct1 -> struct4[label = "a"];
+    struct1 -> struct3[label = "b"];
+    struct3 -> struct4[label = "a"];
+    struct2 -> struct5[label = "b"];
+    struct5 -> struct5[label = "b"];
+    struct5 -> struct6[label = "a"];
+}

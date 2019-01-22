@@ -1,0 +1,96 @@
+const int global_const_int_varible_1 = 1;
+const int global_const_int_varible_2 = 1.2;
+//const int global_const_int_varible_3;
+const int global_const_int_array_1[3] = {0,1,2};
+const int global_const_int_array_2[3] = {0.5,1.6,2};
+//const int global_const_int_array_3[3];
+
+const float global_const_float_varible_1 = 1.2;
+const float global_const_float_varible_2 = 1;
+//const float global_const_float_varible_3;
+const float global_const_float_array_1[3] = {0.56,1.26,2.2929};
+const float global_const_float_array_2[3] = {5,8,44};
+//const float global_const_float_array_3[3];
+
+int global_int_varible_1 = 5;
+int global_int_varible_2 = 5.1;
+int global_int_varible_3;
+int global_int_array_1[6];
+int global_int_array_2[6] = {1,2,3};
+int global_int_array_3[6] = {1.2,3.5};
+
+float global_float_varible_1;
+float global_float_varible_2 = 4;
+float global_float_varible_3 = 5.2;
+float global_float_array_1[5];
+float global_float_array_2[5] = {1,5,9};
+float global_float_array_3[5] = {1.9,5.66};
+
+void global_function(){
+    int a = 44.2;
+    float b = 55;
+    if(a == 44){
+        b = 2.33;
+    }
+    else{
+        b = 6.66;
+    }
+    inputInt();
+    while(input_ivar > 0){
+        output_fvar = b + input_ivar;
+        input_ivar = input_ivar - 1;
+        outputFloat();
+    }
+}
+
+void main(){
+
+    output_ivar = global_const_int_varible_1;
+    outputInt();
+    output_ivar = global_const_int_varible_2;
+    outputInt();
+    output_ivar = global_int_varible_1;
+    outputInt();
+    output_ivar = global_int_varible_2;
+    outputInt();
+    output_ivar = global_int_varible_3;
+    outputInt();
+
+    output_fvar = global_const_float_varible_1;
+    outputFloat();
+    output_fvar = global_const_float_varible_2;
+    outputFloat();
+    output_fvar = global_float_varible_1;
+    outputFloat();
+    output_fvar = global_float_varible_2;
+    outputFloat();
+    output_fvar = global_float_varible_3;
+    outputFloat();
+
+    global_function();
+
+    output_ivar = global_const_int_array_2[2];
+    outputInt();
+    output_ivar = global_int_array_2[2];
+    outputInt();
+    global_int_array_2[2] = global_int_array_2[0] + global_int_array_2[1] * 2;
+    output_ivar = global_int_array_2[2];
+    outputInt();
+
+    output_fvar = global_const_float_array_1[2];
+    outputFloat();
+    output_fvar = global_float_array_2[2];
+    outputFloat();
+    global_float_array_2[2] = global_float_array_2[0] + global_float_array_2[1] * 2;
+    output_fvar = global_float_array_2[2];
+    outputFloat();
+
+    float a = 5;
+    int b[5] = {11,22,33,44,55};
+    while(a > 0){
+        int tmp = a - 1;
+        output_ivar = b[tmp];
+        outputInt();
+        a = a - 1;
+    }
+}

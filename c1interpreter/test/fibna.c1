@@ -1,0 +1,27 @@
+int fibna[100];
+int param;
+void fibna(){
+    if(param == 0){
+        fibna[param] = 0;
+    }
+    else{
+        if(param == 1){
+            fibna[param] = 1;
+        }
+        else{
+            int n = param;
+            param = param - 1;
+            fibna();
+            fibna[n] = fibna[n - 1] + fibna[n - 2];
+        }
+    }
+}
+
+void main(){
+    inputInt();
+    int n = input_ivar;
+    param = n;
+    fibna();
+    output_ivar = fibna[n];
+    outputInt();
+}

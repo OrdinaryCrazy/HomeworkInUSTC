@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/antlr4cpp"
+		},
+		{
+			"file" : "/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/antlr4cpp.rule"
+		},
+		{
+			"file" : "/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/antlr4cpp-complete.rule"
+		},
+		{
+			"file" : "/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-install.rule"
+		},
+		{
+			"file" : "/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-mkdir.rule"
+		},
+		{
+			"file" : "/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download.rule"
+		},
+		{
+			"file" : "/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-patch.rule"
+		},
+		{
+			"file" : "/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure.rule"
+		},
+		{
+			"file" : "/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-build.rule"
+		},
+		{
+			"file" : "/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-skip-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"antlr4cpp"
+		],
+		"name" : "antlr4cpp"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ antlr4cpp
+# Source files and their labels
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/antlr4cpp
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/antlr4cpp.rule
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/antlr4cpp-complete.rule
+/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-install.rule
+/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-mkdir.rule
+/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download.rule
+/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-patch.rule
+/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure.rule
+/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-build.rule
+/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-skip-update.rule

@@ -1,0 +1,20 @@
+digraph DFA{
+    PS[shape = circle];
+    P0[shape = circle];
+    P1[shape = circle];
+    PS_end1[shape = doublecircle];
+    PS_end2[shape = doublecircle];
+    PA[shape = circle];
+    P3[shape = circle];
+    PA_end[shape = doublecircle];
+    PS -> P0[label = "a"];
+    P0 -> P0[label = "a"];
+    PS -> P1[label = "b"];
+    P0 -> P1[label = "b"];
+    P1 -> PS_end1[label = "d"];
+    P1 -> PS_end2[label = "c"];
+    PA -> P3[label = "a"];
+    P3 -> P3[label = "a"];
+    PA -> PA_end[label = "b"];
+    P3 -> PA_end[label = "b"];
+}

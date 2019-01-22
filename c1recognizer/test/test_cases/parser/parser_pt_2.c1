@@ -1,0 +1,20 @@
+void Huffman(){
+    if(a == 0){
+        b = c;
+    }
+    else{
+        c = 10086;
+    }
+    while(c > 0)
+        c = c - 1;
+}
+void Huffman(){
+    if(a == 0){
+        b = c;
+    }
+    else{
+        c = 10086;
+    }
+    while(c > 0)
+        c = c - 1;
+}

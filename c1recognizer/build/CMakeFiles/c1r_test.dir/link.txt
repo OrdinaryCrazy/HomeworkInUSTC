@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/c1r_test.dir/test/main.cpp.o  -o c1r_test  -L/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/lib -Wl,-rpath,/home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/lib libc1recognizer.a -lantlr4-runtime 

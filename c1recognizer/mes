@@ -1,0 +1,4 @@
+alias grun='java org.antlr.v4.gui.TestRig'
+alias antlr4='java org.antlr.v4.Tool'
+export CLASSPATH=".:/home/crazy/3-compilerh/antlr-4.7.1-complete.jar:$CLASSPATH"
+

@@ -1,0 +1,8 @@
+/home/crazy/install/lib/libc1recognizer.a
+/home/crazy/install/include/c1recognizer/recognizer.h
+/home/crazy/install/include/c1recognizer/error_reporter.h
+/home/crazy/install/include/c1recognizer/syntax_tree.h
+/home/crazy/install/lib/libantlr4-runtime.a
+/home/crazy/install/lib/libantlr4-runtime.so.4.7.1
+/home/crazy/install/lib/libantlr4-runtime.so
+/home/crazy/install/cmake/c1recognizer-config.cmake

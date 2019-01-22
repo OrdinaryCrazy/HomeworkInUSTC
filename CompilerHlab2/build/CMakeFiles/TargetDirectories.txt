@@ -1,0 +1,4 @@
+/home/crazy/3-compilerh/lab2/build/CMakeFiles/rebuild_cache.dir
+/home/crazy/3-compilerh/lab2/build/CMakeFiles/edit_cache.dir
+/home/crazy/3-compilerh/lab2/build/CMakeFiles/intrinsics_gen.dir
+/home/crazy/3-compilerh/lab2/build/CMakeFiles/gen_fib.dir

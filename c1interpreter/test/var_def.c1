@@ -1,0 +1,43 @@
+int int_test_1[5] = {0,1,2,3,4};
+int int_test_2[56];
+float float_test_1[66] = {0.27,3.33,4};
+float float_test_2[12];
+int global_int_1 = 59;
+float global_float_1 = 78;
+
+void main(){
+    int int_test_3[3] = {1,2};
+    float float_test_3[3] = {0.22,0.662261,2};
+    float local_float_1 = 66;
+
+    output_fvar = float_test_1[1];
+    outputFloat();
+    
+    output_fvar = local_float_1;
+    outputFloat();
+    output_fvar = float_test_3[2];
+    outputFloat();
+    output_fvar = float_test_2[1];
+    outputFloat();
+    float_test_2[1] = 0.56;
+    output_fvar = float_test_2[1];
+    outputFloat();
+    
+
+    int n = 2;
+    output_ivar = n;
+    outputInt();
+
+    output_ivar = int_test_1[3];
+    outputInt();
+
+    output_ivar = int_test_2[3];
+    outputInt();
+
+    output_ivar = global_int_1;
+    outputInt();
+
+    global_int_1 = 22;
+    output_ivar = global_int_1;
+    outputInt();
+}

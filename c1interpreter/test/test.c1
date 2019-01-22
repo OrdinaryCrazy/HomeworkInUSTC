@@ -1,0 +1,6 @@
+void main()
+{
+  inputInt();
+  output_ivar = input_ivar % 10;
+  outputInt();
+}

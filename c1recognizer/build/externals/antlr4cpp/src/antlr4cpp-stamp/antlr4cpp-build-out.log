@@ -1,0 +1,3 @@
+[  0%] Built target make_lib_output_dir
+[ 50%] Built target antlr4_static
+[100%] Built target antlr4_shared

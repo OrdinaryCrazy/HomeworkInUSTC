@@ -1,0 +1,50 @@
+digraph ATN{
+    PS[shape = circle];
+    PA[shape = circle];
+    PB[shape = circle];
+    PC[shape = circle];
+    PS_1[shape = circle];
+    PS_2[shape = circle];
+    PA_1[shape = circle];
+    PB_1[shape = circle];
+    PC_1[shape = circle];
+    P1[shape = circle];
+    P2[shape = circle];
+    P3[shape = circle];
+    P4[shape = circle];
+    P5[shape = circle];
+    P6[shape = circle];
+    P7[shape = circle];
+    P8[shape = circle];
+    P9[shape = circle];
+    P10[shape = circle];
+    PS_end[shape = doublecircle];
+    PB_end[shape = doublecircle];
+    PA_end[shape = doublecircle];
+    PC_end[shape = doublecircle];
+
+    PS -> PS_1[label = "null"];
+    PS -> PS_2[label = "null"];
+    PS_1 -> P1[label = "x"];
+    PS_2 -> P2[label = "y"];
+    P1 -> P3[label = "B"];
+    P2 -> P4[label = "C"];
+    P3 -> PS_end[label = "null"];
+    P4 -> PS_end[label = "null"];
+
+    PA -> PA_1[label = "null"];
+    PA_1 -> PA_end[label = "null"];
+    PA_1 -> P10[label = "b"];
+    P10 -> PA_end[label = "null"];
+
+    PB -> PB_1[label = "null"];
+    PB_1 -> P5[label = "A"];
+    P5 -> P6[label = "a"];
+    P6 -> PB_end[label = "null"];
+
+    PC -> PC_1[label = "null"];
+    PC_1 -> P7[label = "A"];
+    P7 -> P8[label = "b"];
+    P8 -> P9[label = "a"];
+    P9 -> PC_end[label = "null"];
+}

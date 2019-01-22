@@ -1,0 +1,5 @@
+-- Building without demo. To enable demo build use: -DWITH_DEMO=True
+-- Output libraries to /home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp/runtime/Cpp/dist
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/crazy/3-compilerh/c1recognizer/build/externals/antlr4cpp/src/antlr4cpp-build

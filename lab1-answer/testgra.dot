@@ -1,0 +1,34 @@
+digraph testgra{
+
+    PS[shape = circle];
+    P1[shape = circle];
+    P2[shape = circle];
+    P3[shape = circle];
+    P4[shape = circle];
+    P5[shape = circle];
+    P6[shape = circle];
+    PS_end[shape = doublecircle];
+    PS -> P1[label = "null"];
+    PS -> P4[label = "null"];
+    P1 -> P2[label = "A"];
+    P4 -> P5[label = "A"];
+    P2 -> P3[label = "c"];
+    P5 -> P6[label = "d"];
+    P3 -> PS_end[label = "null"];
+    P6 -> PS_end[label = "null"];
+
+    PA[shape = circle];
+    P7[shape = circle];
+    P8[shape = circle];
+    P9[shape = circle];
+    P10[shape = circle];
+    P11[shape = circle];
+    PA_end[shape = doublecircle];
+    PA -> P7[label = "null"];
+    PA -> P10[label = "null"];
+    P7 -> P8[label = "a"];
+    P8 -> P9[label = "A"];
+    P10 -> P11[label = "b"];
+    P11 -> PA_end[label = "null"];
+    P9 -> PA_end[label = "null"];
+}

@@ -1,0 +1,11 @@
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/install/strip.dir
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/install/local.dir
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/install.dir
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/list_install_components.dir
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/rebuild_cache.dir
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/antlr4cpp.dir
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/rapidjson.dir
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/antlr4cpp_generation_c1_recognizer.dir
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/c1recognizer.dir
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/edit_cache.dir
+/home/crazy/3-compilerh/c1recognizer/build/CMakeFiles/c1r_test.dir
