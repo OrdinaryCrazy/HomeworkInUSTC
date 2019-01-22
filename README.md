@@ -15,6 +15,7 @@ This is a personal repository for homework.
 ## Introduction to Data Science 2018Fall
 
 * [Dirichlet](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/Dirichlet)
+* [BDCI2018](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/PB16111485_%E5%BC%A0%E5%8A%B2%E6%9A%BE_%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E7%94%A8%E6%88%B7%E8%A7%82%E7%82%B9%E4%B8%BB%E9%A2%98%E5%8F%8A%E6%83%85%E6%84%9F%E8%AF%86%E5%88%AB)
 ## Basical JAVA Programming 2018Fall
 * [Huffman.java](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/Huffman.java)
 * [WordPuzzle.java](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/JavaLab1-PB16111485-%E5%BC%A0%E5%8A%B2%E6%9A%BE/WordPuzzle.java)
