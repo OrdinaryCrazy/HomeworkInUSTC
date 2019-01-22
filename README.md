@@ -5,7 +5,15 @@
 ***
 This is a personal repository for homework.
 [TOC]
+## Principles and Techniques of Compilers 2018Fall
+
+* [c1interpreter](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/c1interpreter)
+* [c1recognizer](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/c1recognizer)
+* [HW](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/HW/H1)
+* [Lab2](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/CompilerHlab2)
+
 ## Introduction to Data Science 2018Fall
+
 * [Dirichlet](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/Dirichlet)
 ## Basical JAVA Programming 2018Fall
 * [Huffman.java](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/Huffman.java)
@@ -34,6 +42,7 @@ This is a personal repository for homework.
 * [InvertedIndex.cpp](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/InvertedIndex.cpp)
 * [InvertedIndexOuter.cpp](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/InvertedIndexOuter.cpp)
 * [DBWorldSearchEngin](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/DBWorldSearchEngin)
+* [Lab2](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/lab2)
 ## Paper Lab
 ### KnowledgeGraph
 * [KGDevReport2018](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/PaperLab/KnowledgeGraph/KGDevReport2018.pdf)
