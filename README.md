@@ -5,6 +5,13 @@
 ***
 This is a personal repository for homework.
 [TOC]
+## Intel Microprocessor 2018Fall
+
+* [lab1](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/lab/lab1.asm)
+* [lab2](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/lab/lab2.asm)
+* [lab3](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/lab/lab3.asm)
+* [lab4](https://github.com/OrdinaryCrazy/HomeworkInUSTC/blob/master/lab/lab4.asm)
+
 ## Principles and Techniques of Compilers 2018Fall
 
 * [c1interpreter](https://github.com/OrdinaryCrazy/HomeworkInUSTC/tree/master/c1interpreter)
